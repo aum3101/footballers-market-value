@@ -11,7 +11,7 @@ function App() {
     <div className="app">
       <nav className="navbar">
         <div className="nav-brand">
-          ⚽ <span>FOOTBALL</span> VALUE
+          ⚽ <span>Mercato</span>
         </div>
         <div className="nav-links">
           <button className={page === "dashboard" ? "nav-btn active" : "nav-btn"} onClick={() => setPage("dashboard")}>

@@ -168,7 +168,7 @@ export default function Dashboard() {
         {/* Top Players Table */}
         <div className="chart-card full-width">
           <div className="chart-header">
-            <div className="chart-title">Top 20 Players by Market Value</div>
+            <div className="chart-title">Players by Market Value</div>
             <div className="chart-subtitle">Highest valued players in the dataset</div>
           </div>
           <table className="top-players-table">
