@@ -15,7 +15,8 @@ This application combines real football data from multiple sources to predict ho
 
 ## 📸 Screenshots
 
-> Dashboard, Predictor and Comparison tool screenshots here
+### Dashboard
+
 
 ---
 
@@ -136,7 +137,6 @@ footballers-market-value/
 ## 👤 Author
 
 **Aum Shukla**
-Massey University — 158.755 Data Science, Semester 1 2026
 
 ---
 
