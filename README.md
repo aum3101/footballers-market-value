@@ -16,6 +16,8 @@ This application combines real football data from multiple sources to predict ho
 ## 📸 Screenshots
 
 ### Dashboard
+![Dashboard](screenshots/Dashboard1.png)
+![Dashboard](screenshots/Dashboard2.png)
 
 
 ---
