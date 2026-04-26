@@ -1,0 +1,601 @@
+player_id,player_name,nationality,position,date_of_birth,team,team_id,competition,comp_code,goals,assists,penalties,played_matches,market_value_raw,market_value_eur,height_raw,preferred_foot,league_position,points,goals_for
+38101,Erling Haaland,Norway,Centre-Forward,2000-07-21,Manchester City FC,65,Premier League,PL,24,7.0,3.0,32,€200.00mLast update: 09/12/2025,200.0,"1,95 m",left,2,70,66
+175994,Thiago Rodrigues,Brazil,Offence,2001-06-26,Brentford FC,402,Premier League,PL,21,1.0,7.0,33,-,,"1,88 m",right,9,48,48
+4417,Antoine Semenyo,Ghana,Right Winger,2000-01-07,Manchester City FC,65,Premier League,PL,15,4.0,1.0,32,€75.00mLast update: 09/03/2026,75.0,"1,85 m",right,2,70,66
+103125,João Pedro,Brazil,Centre-Forward,2001-09-26,Chelsea FC,61,Premier League,PL,14,5.0,,32,€110.00mLast update: 15/12/2025,110.0,"1,74 m",right,8,48,53
+3328,Danny Welbeck,England,Centre-Forward,1990-11-26,Brighton & Hove Albion FC,397,Premier League,PL,13,,1.0,33,€4.00mLast update: 09/12/2025,4.0,"1,85 m",right,6,50,48
+4091,Morgan Gibbs-White,England,Attacking Midfield,2000-01-27,Nottingham Forest FC,351,Premier League,PL,13,4.0,1.0,34,€60.00mLast update: 09/03/2026,60.0,"1,71 m",right,16,39,41
+8279,Viktor Gyökeres,Sweden,Centre-Forward,1998-06-04,Arsenal FC,57,Premier League,PL,12,,3.0,32,€65.00mLast update: 09/03/2026,65.0,"1,89 m",right,1,73,64
+152454,Hugo Ekitike,France,Centre-Forward,2002-06-20,Liverpool FC,64,Premier League,PL,11,4.0,,29,€90.00mLast update: 09/03/2026,90.0,"1,90 m",right,4,58,57
+7839,Dominic Calvert-Lewin,England,Centre-Forward,1997-03-16,Leeds United FC,341,Premier League,PL,11,1.0,3.0,31,€22.00mLast update: 09/03/2026,22.0,"1,89 m",right,15,40,44
+204241,Eli Kroupi,France,Centre-Forward,2006-06-23,AFC Bournemouth,1044,Premier League,PL,11,,1.0,34,-,,"1,75 m",both,7,49,52
+4444,Ollie Watkins,England,Centre-Forward,1995-12-30,Aston Villa FC,58,Premier League,PL,11,2.0,,33,€30.00mLast update: 09/12/2025,30.0,"1,80 m",right,5,58,47
+641,Jean-Philippe Mateta,France,Centre-Forward,1997-06-28,Crystal Palace FC,354,Premier League,PL,10,,4.0,27,€35.00mLast update: 09/03/2026,35.0,"1,92 m",right,13,43,36
+11777,Harry Wilson,Wales,Right Winger,1997-03-22,Fulham FC,63,Premier League,PL,10,6.0,,32,€25.00mLast update: 09/03/2026,25.0,"1,73 m",left,10,48,44
+8133,Richarlison,Brazil,Centre-Forward,1997-05-10,Tottenham Hotspur FC,73,Premier League,PL,9,4.0,,29,€28.00mLast update: 09/12/2025,28.0,"1,84 m",right,18,34,43
+1684,Bruno Guimarães,Brazil,Defensive Midfield,1997-11-16,Newcastle United FC,67,Premier League,PL,9,4.0,2.0,26,€75.00mLast update: 09/12/2025,75.0,"1,82 m",right,14,42,46
+8626,Bryan Mbeumo,Cameroon,Right Winger,1999-08-07,Manchester United FC,66,Premier League,PL,9,3.0,,28,€80.00mLast update: 09/03/2026,80.0,"1,71 m",left,3,58,58
+144892,Cole Palmer,England,Attacking Midfield,2002-05-06,Chelsea FC,61,Premier League,PL,9,1.0,5.0,23,€110.00mLast update: 09/03/2026,110.0,"1,85 m",left,8,48,53
+124244,Benjamin Šeško,Slovenia,Centre-Forward,2003-05-31,Manchester United FC,66,Premier League,PL,9,1.0,,30,€65.00mLast update: 09/03/2026,65.0,"1,95 m",right,3,58,58
+3305,Raúl Jiménez,Mexico,Centre-Forward,1991-05-05,Fulham FC,63,Premier League,PL,9,3.0,4.0,33,€4.00mLast update: 09/12/2025,4.0,"1,87 m",right,10,48,44
+82140,Morgan Rogers,England,Attacking Midfield,2002-07-26,Aston Villa FC,58,Premier League,PL,9,6.0,,34,€80.00mLast update: 09/03/2026,80.0,"1,87 m",right,5,58,47
+67893,Zian Flemming,Netherlands,Attacking Midfield,1998-08-01,Burnley FC,328,Premier League,PL,9,,2.0,28,€12.00mLast update: 09/03/2026,12.0,"1,85 m",right,19,20,34
+102603,Enzo Fernández,Argentina,Central Midfield,2001-01-17,Chelsea FC,61,Premier League,PL,8,3.0,2.0,32,€90.00mLast update: 09/03/2026,90.0,"1,78 m",right,8,48,53
+3257,Bruno Fernandes,Portugal,Attacking Midfield,1994-09-08,Manchester United FC,66,Premier League,PL,8,18.0,4.0,30,€40.00mLast update: 09/12/2025,40.0,"1,79 m",right,3,58,58
+125044,Beto,Guinea-Bissau,Centre-Forward,1998-01-31,Everton FC,62,Premier League,PL,8,1.0,,33,-,,"1,76 m",both,11,47,41
+140194,Kiernan Dewsbury Hall,England,Central Midfield,1998-09-06,Everton FC,62,Premier League,PL,8,4.0,,27,,,,,11,47,41
+11414,Jarrod Bowen,England,Right Winger,1996-01-01,West Ham United FC,563,Premier League,PL,8,10.0,1.0,34,€35.00mLast update: 09/12/2025,35.0,"1,76 m",left,17,36,42
+3231,Casemiro,Brazil,Defensive Midfield,1992-02-23,Manchester United FC,66,Premier League,PL,8,2.0,,31,€8.00mLast update: 09/12/2025,8.0,"1,85 m",right,3,58,58
+30842,Matheus Cunha,Brazil,Centre-Forward,1999-05-27,Manchester United FC,66,Premier League,PL,8,2.0,,30,€70.00mLast update: 09/12/2025,70.0,"1,83 m",right,3,58,58
+3754,Mohamed Salah,Egypt,Right Winger,1992-06-15,Liverpool FC,64,Premier League,PL,7,6.0,1.0,27,€30.00mLast update: 09/12/2025,30.0,"1,75 m",left,4,58,57
+150778,Jaidon Anthony,England,Left Winger,1999-12-01,Burnley FC,328,Premier League,PL,7,1.0,,34,€18.00mLast update: 09/03/2026,18.0,"1,83 m",right,19,20,34
+3638,Ismaïla Sarr,Senegal,Right Winger,1998-02-25,Crystal Palace FC,354,Premier League,PL,7,1.0,2.0,23,€35.00mLast update: 09/12/2025,35.0,"1,85 m",right,13,43,36
+133547,Nick Woltemade,Germany,Offence,2002-02-14,Newcastle United FC,67,Premier League,PL,7,3.0,1.0,30,€65.00mLast update: 09/03/2026,65.0,"1,98 m",right,14,42,46
+123286,Kevin Schade,Germany,Left Winger,2001-11-27,Brentford FC,402,Premier League,PL,7,3.0,,30,€35.00mLast update: 09/12/2025,35.0,"1,85 m",right,9,48,48
+7888,Phil Foden,England,Right Winger,2000-05-28,Manchester City FC,65,Premier League,PL,7,3.0,,31,€80.00mLast update: 09/12/2025,80.0,"1,71 m",left,2,70,66
+16058,Noah Okafor,Switzerland,Left Winger,2000-05-24,Leeds United FC,341,Premier League,PL,7,1.0,,28,€18.00mLast update: 09/12/2025,18.0,"1,85 m",right,15,40,44
+4032,Eberechi Eze,England,Attacking Midfield,1998-06-29,Arsenal FC,57,Premier League,PL,7,2.0,,33,€60.00mLast update: 09/03/2026,60.0,"1,78 m",right,1,73,64
+7459,Cody Gakpo,Netherlands,Left Winger,1999-05-07,Liverpool FC,64,Premier League,PL,6,5.0,,32,€65.00mLast update: 09/03/2026,65.0,"1,93 m",right,4,58,57
+7892,Lukas Nmecha,Germany,Centre-Forward,1998-12-14,Leeds United FC,341,Premier League,PL,6,1.0,2.0,30,€10.00mLast update: 09/03/2026,10.0,"1,85 m",right,15,40,44
+6396,Marcus Tavernier,England,Left Midfield,1999-03-22,AFC Bournemouth,1044,Premier League,PL,6,4.0,2.0,30,€23.00mLast update: 09/03/2026,23.0,"1,78 m",left,7,49,52
+99813,Bukayo Saka,England,Right Winger,2001-09-05,Arsenal FC,57,Premier League,PL,6,3.0,1.0,28,€120.00mLast update: 09/03/2026,120.0,"1,78 m",left,1,73,64
+94091,Iliman Ndiaye,Senegal,Left Winger,1999-07-22,Everton FC,62,Premier League,PL,6,3.0,2.0,28,€50.00mLast update: 09/03/2026,50.0,"1,80 m",right,11,47,41
+131260,Evanilson,Brazil,Centre-Forward,1999-10-06,AFC Bournemouth,1044,Premier League,PL,6,2.0,,32,€35.00mLast update: 09/03/2026,35.0,"1,83 m",both,7,49,52
+8251,Callum Wilson,England,Centre-Forward,1992-02-27,West Ham United FC,563,Premier League,PL,6,1.0,,33,€5.00mLast update: 09/12/2025,5.0,"1,80 m",right,17,36,42
+97535,Brian Brobbey,Netherlands,Centre-Forward,2002-02-01,Sunderland AFC,71,Premier League,PL,6,1.0,,30,€25.00mLast update: 09/03/2026,25.0,"1,80 m",right,12,46,36
+7848,Anthony Gordon,England,Left Winger,2001-02-24,Newcastle United FC,67,Premier League,PL,6,2.0,3.0,26,€60.00mLast update: 09/12/2025,60.0,"1,83 m",right,14,42,46
+19334,Florian Wirtz,Germany,Attacking Midfield,2003-05-03,Liverpool FC,64,Premier League,PL,6,3.0,,30,€110.00mLast update: 09/12/2025,110.0,"1,77 m",right,4,58,57
+171995,Thierno Barry,France,Centre-Forward,2000-01-12,Everton FC,62,Premier League,PL,6,1.0,,34,€30.00mLast update: 09/12/2025,30.0,"1,95 m",right,11,47,41
+83599,Wilson Isidor,France,Centre-Forward,2000-08-27,Sunderland AFC,71,Premier League,PL,5,,,32,€18.00mLast update: 09/12/2025,18.0,"1,86 m",right,12,46,36
+7696,Tijjani Reijnders,Netherlands,Central Midfield,1998-07-29,Manchester City FC,65,Premier League,PL,5,2.0,,33,€60.00mLast update: 09/03/2026,60.0,"1,85 m",right,2,70,66
+2074,Pedro Neto,Portugal,Right Winger,2000-03-09,Chelsea FC,61,Premier League,PL,5,4.0,,32,€60.00mLast update: 09/12/2025,60.0,"1,74 m",left,8,48,53
+177305,Dango Ouattara,Burkina Faso,Left Winger,2002-02-11,Brentford FC,402,Premier League,PL,5,3.0,,27,€35.00mLast update: 09/12/2025,35.0,"1,77 m",left,9,48,48
+16347,Dominik Szoboszlai,Hungary,Central Midfield,2000-10-25,Liverpool FC,64,Premier League,PL,5,4.0,,32,€100.00mLast update: 09/03/2026,100.0,"1,87 m",right,4,58,57
+115035,Martín Zubimendi,Spain,Defensive Midfield,1999-02-02,Arsenal FC,57,Premier League,PL,5,1.0,,34,€80.00mLast update: 09/03/2026,80.0,"1,81 m",right,1,73,64
+31941,Emiliano Buendía,Argentina,Attacking Midfield,1996-12-25,Aston Villa FC,58,Premier League,PL,5,2.0,,33,€18.00mLast update: 09/12/2025,18.0,"1,72 m",right,5,58,47
+8984,Leandro Trossard,Belgium,Left Winger,1994-12-04,Arsenal FC,57,Premier League,PL,5,5.0,,31,€20.00mLast update: 09/12/2025,20.0,"1,72 m",right,1,73,64
+178951,Diego Gómez,Paraguay,Central Midfield,2003-03-27,Brighton & Hove Albion FC,397,Premier League,PL,5,1.0,,30,€25.00mLast update: 09/12/2025,25.0,"1,85 m",right,6,50,48
+15742,Tomáš Souček,Czech Republic,Defensive Midfield,1995-02-27,West Ham United FC,563,Premier League,PL,5,,,31,€12.00mLast update: 09/12/2025,12.0,"1,92 m",right,17,36,42
+206743,Nico O'Reilly,England,Midfield,2005-03-21,Manchester City FC,65,Premier League,PL,5,2.0,,32,€50.00mLast update: 09/03/2026,50.0,"1,93 m",left,2,70,66
+8076,Harvey Barnes,England,Left Winger,1997-12-09,Newcastle United FC,67,Premier League,PL,5,,,34,€32.00mLast update: 09/12/2025,32.0,"1,82 m",right,14,42,46
+256339,Igor Jesus,Brazil,Offence,2001-02-25,Nottingham Forest FC,351,Premier League,PL,5,5.0,,33,€22.00mLast update: 09/03/2026,22.0,"1,79 m",right,16,39,41
+102193,Crysencio Summerville,Netherlands,Left Winger,2001-10-30,West Ham United FC,563,Premier League,PL,5,1.0,,27,€30.00mLast update: 09/03/2026,30.0,"1,74 m",right,17,36,42
+133242,Rayan Cherki,France,Attacking Midfield,2003-08-17,Manchester City FC,65,Premier League,PL,4,10.0,,29,€65.00mLast update: 09/03/2026,65.0,"1,77 m",both,2,70,66
+1543,Lucas Paquetá,Brazil,Attacking Midfield,1997-08-27,West Ham United FC,563,Premier League,PL,4,1.0,2.0,18,€35.00mLast update: 09/12/2025,35.0,"1,80 m",left,17,36,42
+15884,João Palhinha,Portugal,Defensive Midfield,1995-07-09,Tottenham Hotspur FC,73,Premier League,PL,4,1.0,,31,€18.00mLast update: 09/03/2026,18.0,"1,90 m",right,18,34,43
+81793,Ryan Gravenberch,Netherlands,Defensive Midfield,2002-05-16,Liverpool FC,64,Premier League,PL,4,3.0,,32,€90.00mLast update: 09/12/2025,90.0,"1,90 m",right,4,58,57
+169324,William Osula,Denmark,Centre-Forward,2003-08-04,Newcastle United FC,67,Premier League,PL,4,,,22,€15.00mLast update: 09/12/2025,15.0,"1,91 m",right,14,42,46
+99664,Enzo Le Fée,France,Central Midfield,2000-02-03,Sunderland AFC,71,Premier League,PL,4,5.0,3.0,32,€25.00mLast update: 09/03/2026,25.0,"1,73 m",right,12,46,36
+131177,Mickey van de Ven,Netherlands,Centre-Back,2001-04-19,Tottenham Hotspur FC,73,Premier League,PL,4,2.0,,32,,,,,18,34,43
+65843,Anton Stach,Germany,Central Midfield,1998-11-15,Leeds United FC,341,Premier League,PL,4,3.0,,27,€25.00mLast update: 09/03/2026,25.0,"1,94 m",right,15,40,44
+3392,Alex Iwobi,Nigeria,Left Winger,1996-05-03,Fulham FC,63,Premier League,PL,4,3.0,,27,€25.00mLast update: 09/12/2025,25.0,"1,83 m",right,10,48,44
+34646,John McGinn,Scotland,Central Midfield,1994-10-18,Aston Villa FC,58,Premier League,PL,4,3.0,,27,€15.00mLast update: 09/12/2025,15.0,"1,78 m",left,5,58,47
+7935,Mikel Merino,Spain,Central Midfield,1996-06-22,Arsenal FC,57,Premier League,PL,4,3.0,,23,€30.00mLast update: 09/12/2025,30.0,"1,89 m",left,1,73,64
+8215,Declan Rice,England,Central Midfield,1999-01-14,Arsenal FC,57,Premier League,PL,4,5.0,,33,€120.00mLast update: 09/12/2025,120.0,"1,88 m",right,1,73,64
+7457,Donyell Malen,Netherlands,Right Winger,1999-01-19,Aston Villa FC,58,Premier League,PL,4,1.0,,21,€35.00mLast update: 24/03/2026,35.0,"1,76 m",right,5,58,47
+22010,Daniel Muñoz,Colombia,Right-Back,1996-05-26,Crystal Palace FC,354,Premier League,PL,4,3.0,,24,€27.00mLast update: 09/12/2025,27.0,"1,81 m",right,13,43,36
+113262,Brenden Aaronson,USA,Attacking Midfield,2000-10-22,Leeds United FC,341,Premier League,PL,4,5.0,,34,€18.00mLast update: 09/03/2026,18.0,"1,77 m",right,15,40,44
+192313,Chemsdine Talbi,Morocco,Midfield,2005-05-09,Sunderland AFC,71,Premier League,PL,4,1.0,,28,€25.00mLast update: 09/03/2026,25.0,"1,75 m",right,12,46,36
+213269,Jørgen Strand Larsen,Norway,Offence,2000-02-06,Crystal Palace FC,354,Premier League,PL,4,1.0,1.0,31,€45.00mLast update: 09/03/2026,45.0,"1,93 m",right,13,43,36
+142732,Malick Thiaw,Germany,Centre-Back,2001-08-08,Newcastle United FC,67,Premier League,PL,4,,,34,€45.00mLast update: 09/03/2026,45.0,"1,94 m",right,14,42,46
+45735,Christian Romero,Argentina,Centre-Back,1998-04-27,Tottenham Hotspur FC,73,Premier League,PL,4,1.0,,24,-,,"1,80 m",,18,34,43
+7869,Virgil van Dijk,Netherlands,Centre-Back,1991-07-08,Liverpool FC,64,Premier League,PL,4,,,34,€18.00mLast update: 09/12/2025,18.0,"1,95 m",right,4,58,57
+28416,Valentín Castellanos,Argentina,Centre-Forward,1998-10-03,West Ham United FC,563,Premier League,PL,4,,,14,€28.00mLast update: 09/03/2026,28.0,"1,78 m",right,17,36,42
+8057,Chris Wood,New Zealand,Centre-Forward,1991-12-07,Nottingham Forest FC,351,Premier League,PL,3,,,11,,,,,16,39,41
+121103,Moisés Caicedo,Ecuador,Defensive Midfield,2001-11-02,Chelsea FC,61,Premier League,PL,3,1.0,,30,€110.00mLast update: 09/12/2025,110.0,"1,78 m",right,8,48,53
+7810,Trevoh Chalobah,England,Centre-Back,1999-07-05,Chelsea FC,61,Premier League,PL,3,,,31,€40.00mLast update: 09/03/2026,40.0,"1,92 m",right,8,48,53
+98816,Jurrien Timber,Netherlands,Right-Back,2001-06-17,Arsenal FC,57,Premier League,PL,3,6.0,,30,€70.00mLast update: 09/12/2025,70.0,"1,79 m",right,1,73,64
+7816,Callum Hudson-Odoi,England,Left Winger,2000-11-07,Nottingham Forest FC,351,Premier League,PL,3,4.0,,30,€30.00mLast update: 09/12/2025,30.0,"1,78 m",right,16,39,41
+85570,Emile Smith Rowe,England,Attacking Midfield,2000-07-28,Fulham FC,63,Premier League,PL,3,,,33,€22.00mLast update: 09/12/2025,22.0,"1,82 m",right,10,48,44
+34760,Lyle Foster,South Africa,Centre-Forward,2000-09-04,Burnley FC,328,Premier League,PL,3,2.0,,27,€10.00mLast update: 09/12/2025,10.0,"1,85 m",right,19,20,34
+151521,Rodrigo Gomes,Portugal,Right Midfield,2003-07-07,Wolverhampton Wanderers FC,76,Premier League,PL,3,,,22,€15.00mLast update: 09/12/2025,15.0,"1,75 m",right,20,17,24
+118489,Marc Guéhi,England,Centre-Back,2000-07-13,Manchester City FC,65,Premier League,PL,3,1.0,,31,€65.00mLast update: 09/03/2026,65.0,"1,82 m",right,2,70,66
+161088,Alex Scott,England,Central Midfield,2003-08-21,AFC Bournemouth,1044,Premier League,PL,3,1.0,,34,€40.00mLast update: 09/03/2026,40.0,"1,78 m",right,7,49,52
+132707,Kaoru Mitoma,Japan,Left Winger,1997-05-20,Brighton & Hove Albion FC,397,Premier League,PL,3,1.0,,23,€25.00mLast update: 09/03/2026,25.0,"1,78 m",right,6,50,48
+145613,Yasin Ayari,Sweden,Central Midfield,2003-10-06,Brighton & Hove Albion FC,397,Premier League,PL,3,3.0,,28,€30.00mLast update: 09/12/2025,30.0,"1,72 m",right,6,50,48
+24238,Mikkel Damsgaard,Denmark,Left Winger,2000-07-03,Brentford FC,402,Premier League,PL,3,4.0,,30,€30.00mLast update: 09/12/2025,30.0,"1,80 m",right,9,48,48
+11644,Matty Cash,Poland,Right-Back,1997-08-07,Aston Villa FC,58,Premier League,PL,3,2.0,,31,€22.00mLast update: 09/12/2025,22.0,"1,85 m",right,5,58,47
+23128,Gabriel,Brazil,Centre-Back,1997-12-19,Arsenal FC,57,Premier League,PL,3,4.0,,28,€45.00mLast update: 09/12/2025,45.0,"1,78 m",right,1,73,64
+7829,Michael Keane,England,Centre-Back,1993-01-11,Everton FC,62,Premier League,PL,3,,,30,€4.00mLast update: 09/12/2025,4.0,"1,88 m",right,11,47,41
+3959,Ryan Sessegnon,England,Left-Back,2000-05-18,Fulham FC,63,Premier League,PL,3,1.0,,27,,,,,10,48,44
+171977,Mathys Tel,France,Centre-Forward,2005-04-27,Tottenham Hotspur FC,73,Premier League,PL,3,,,34,€25.00mLast update: 09/03/2026,25.0,"1,83 m",right,18,34,43
+3374,Kylian Mbappé,France,Centre-Forward,1998-12-20,Real Madrid CF,86,La Liga,PD,24,4.0,8.0,28,€200.00mLast update: 12/12/2025,200.0,"1,80 m",right,2,74,68
+30059,Vedat Muriqi,Kosovo,Centre-Forward,1994-04-24,RCD Mallorca,89,La Liga,PD,21,1.0,5.0,32,€4.50mLast update: 12/12/2025,4.5,"1,94 m",left,16,35,41
+202283,Lamine Yamal,Spain,Right Winger,2007-07-13,FC Barcelona,81,La Liga,PD,16,11.0,3.0,28,€200.00mLast update: 12/12/2025,200.0,"1,80 m",left,1,85,87
+2237,Ante Budimir,Croatia,Centre-Forward,1991-07-22,CA Osasuna,79,La Liga,PD,16,,6.0,31,€3.00mLast update: 12/12/2025,3.0,"1,90 m",left,10,39,37
+33154,Ferrán Torres,Spain,Right Winger,2000-02-29,FC Barcelona,81,La Liga,PD,14,2.0,,31,€50.00mLast update: 12/12/2025,50.0,"1,82 m",right,1,85,87
+1556,Vinicius Junior,Brazil,Left Winger,2000-07-12,Real Madrid CF,86,La Liga,PD,13,5.0,4.0,31,€150.00mLast update: 12/12/2025,150.0,"1,76 m",right,2,74,68
+8167,Alexander Sørloth,Norway,Centre-Forward,1995-12-05,Club Atlético de Madrid,78,La Liga,PD,12,,,31,€20.00mLast update: 12/12/2025,20.0,"1,95 m",left,4,60,56
+32056,Borja Iglesias,Spain,Centre-Forward,1993-01-17,RC Celta de Vigo,558,La Liga,PD,12,1.0,3.0,31,€3.00mLast update: 12/12/2025,3.0,"1,87 m",right,7,44,44
+180137,Mikel Oyarzabal,Spain,Centre-Forward,1997-04-21,Real Sociedad de Fútbol,92,La Liga,PD,12,3.0,5.0,29,€25.00mLast update: 12/12/2025,25.0,"1,81 m",left,8,42,49
+371,Robert Lewandowski,Poland,Centre-Forward,1988-08-21,FC Barcelona,81,La Liga,PD,12,2.0,1.0,30,€8.00mLast update: 16/03/2026,8.0,"1,86 m",right,1,85,87
+37428,Raphinha,Brazil,Left Winger,1996-12-14,FC Barcelona,81,La Liga,PD,11,3.0,3.0,21,€80.00mLast update: 12/12/2025,80.0,"1,76 m",left,1,85,87
+11733,Toni Martínez,Spain,Centre-Forward,1997-06-30,Deportivo Alavés,263,La Liga,PD,11,3.0,,33,€4.00mLast update: 16/03/2026,4.0,"1,87 m",right,15,36,38
+11113,Lucas Boyé,Argentina,Offence,1996-02-28,Deportivo Alavés,263,La Liga,PD,11,1.0,3.0,28,€5.00mLast update: 12/12/2025,5.0,"1,83 m",right,15,36,38
+133276,Jorge de Frutos,Spain,Right Winger,1997-02-20,Rayo Vallecano de Madrid,87,La Liga,PD,10,1.0,1.0,30,€12.00mLast update: 12/12/2025,12.0,"1,73 m",right,12,38,30
+32762,Hugo Duro,Spain,Centre-Forward,1999-11-10,Valencia CF,95,La Liga,PD,9,,1.0,32,€12.00mLast update: 12/12/2025,12.0,"1,77 m",left,11,39,37
+1760,André Silva,Portugal,Centre-Forward,1995-11-06,Elche CF,285,La Liga,PD,9,,2.0,27,€3.00mLast update: 12/12/2025,3.0,"1,86 m",right,17,35,42
+160819,Vladyslav Vanat,Ukraine,Offence,2002-01-04,Girona FC,298,La Liga,PD,9,1.0,3.0,27,€15.00mLast update: 12/12/2025,15.0,"1,82 m",left,14,38,36
+136646,Georges Mikautadze,Georgia,Centre-Forward,2000-10-31,Villarreal CF,94,La Liga,PD,9,5.0,,28,€28.00mLast update: 12/12/2025,28.0,"1,76 m",right,3,62,57
+150533,Alberto Moleiro,Spain,Attacking Midfield,2003-09-30,Villarreal CF,94,La Liga,PD,9,4.0,,32,€40.00mLast update: 16/03/2026,40.0,"1,71 m",right,3,62,57
+112678,Federico Viñas,Uruguay,Offence,1998-06-30,Real Oviedo,1048,La Liga,PD,9,1.0,2.0,28,€4.00mLast update: 12/12/2025,4.0,"1,82 m",left,20,28,25
+81565,Gorka Guruzeta,Spain,Centre-Forward,1996-09-12,Athletic Club,77,La Liga,PD,9,1.0,1.0,32,€5.00mLast update: 12/12/2025,5.0,"1,88 m",right,9,41,36
+98571,Julián Álvarez,Argentina,Centre-Forward,2000-01-31,Club Atlético de Madrid,78,La Liga,PD,8,4.0,2.0,32,€90.00mLast update: 16/03/2026,90.0,"1,70 m",right,4,60,56
+4098,Rafael Mir,Spain,Centre-Forward,1997-06-18,Elche CF,285,La Liga,PD,8,,1.0,27,€4.00mLast update: 12/12/2025,4.0,"1,91 m",right,17,35,42
+32415,Cucho Hernández,Colombia,Centre-Forward,1999-04-20,Real Betis Balompié,90,La Liga,PD,8,3.0,1.0,28,€18.00mLast update: 12/12/2025,18.0,"1,76 m",right,5,50,49
+82132,Akor Adams,Nigeria,Centre-Forward,2000-01-29,Sevilla FC,559,La Liga,PD,8,3.0,3.0,27,€12.00mLast update: 16/03/2026,12.0,"1,90 m",right,18,34,39
+32719,Gerard Moreno,Spain,Centre-Forward,1992-04-07,Villarreal CF,94,La Liga,PD,8,,2.0,19,€2.80mLast update: 12/12/2025,2.8,"1,80 m",left,3,62,57
+3259,Gonçalo Guedes,Portugal,Left Winger,1996-11-29,Real Sociedad de Fútbol,92,La Liga,PD,8,4.0,,31,€6.00mLast update: 12/12/2025,6.0,"1,79 m",right,8,42,49
+247061,Carlos Espí,Spain,Offence,2005-07-24,Levante UD,88,La Liga,PD,8,,,28,€2.50mLast update: 16/03/2026,2.5,"1,94 m",right,19,32,37
+156746,Iván Romero,Spain,Offence,2001-04-10,Levante UD,88,La Liga,PD,7,2.0,,31,€7.50mLast update: 12/12/2025,7.5,"1,73 m",right,19,32,37
+33117,Pablo Fornals,Spain,Attacking Midfield,1996-02-22,Real Betis Balompié,90,La Liga,PD,7,4.0,,33,€8.00mLast update: 12/12/2025,8.0,"1,78 m",right,5,50,49
+23132,Dani Olmo,Spain,Attacking Midfield,1998-05-07,FC Barcelona,81,La Liga,PD,7,8.0,,28,€60.00mLast update: 12/12/2025,60.0,"1,79 m",right,1,85,87
+114,Antoine Griezmann,France,Centre-Forward,1991-03-21,Club Atlético de Madrid,78,La Liga,PD,7,1.0,,31,€10.00mLast update: 16/03/2026,10.0,"1,76 m",left,4,60,56
+175941,Abdessamad Ezzalzouli,Morocco,Offence,2001-12-17,Real Betis Balompié,90,La Liga,PD,7,7.0,,24,€30.00mLast update: 16/03/2026,30.0,"1,77 m",right,5,50,49
+3331,Marcus Rashford,England,Left Winger,1997-10-31,FC Barcelona,81,La Liga,PD,7,6.0,,31,€40.00mLast update: 12/12/2025,40.0,"1,85 m",right,1,85,87
+97085,Antony,Brazil,Right Winger,2000-02-24,Real Betis Balompié,90,La Liga,PD,7,5.0,,27,€40.00mLast update: 16/03/2026,40.0,"1,72 m",left,5,50,49
+83406,Ferran Jutglà,Spain,Midfield,1999-02-01,RC Celta de Vigo,558,La Liga,PD,7,2.0,,29,€7.00mLast update: 12/12/2025,7.0,"1,75 m",right,7,44,44
+203439,Karl Etta Eyong,Cameroon,Offence,2003-10-14,Levante UD,88,La Liga,PD,6,5.0,,30,€18.00mLast update: 16/03/2026,18.0,"1,81 m",right,19,32,37
+32398,Pere Milla,Spain,Left Winger,1992-09-23,RCD Espanyol de Barcelona,80,La Liga,PD,6,,,29,€1.20mLast update: 12/12/2025,1.2,"1,80 m",left,13,38,37
+8412,Nicolas Pépé,Ivory Coast,Right Winger,1995-05-29,Villarreal CF,94,La Liga,PD,6,4.0,1.0,32,€6.00mLast update: 12/12/2025,6.0,"1,83 m",left,3,62,57
+113175,Tajon Buchanan,Canada,Right Midfield,1999-02-08,Villarreal CF,94,La Liga,PD,6,1.0,,31,€12.00mLast update: 16/03/2026,12.0,"1,83 m",right,3,62,57
+214533,Fermín López,Spain,Central Midfield,2003-05-11,FC Barcelona,81,La Liga,PD,6,8.0,,28,€100.00mLast update: 16/03/2026,100.0,"1,74 m",right,1,85,87
+180218,Roberto Fernández,Spain,Centre-Forward,2002-07-03,RCD Espanyol de Barcelona,80,La Liga,PD,6,1.0,1.0,32,€150kLast update: 02/12/2025,0.15,"1,91 m",right,13,38,37
+33358,Kike García,Spain,Centre-Forward,1989-11-25,RCD Espanyol de Barcelona,80,La Liga,PD,6,1.0,1.0,32,€800kLast update: 12/12/2025,0.8,"1,86 m",right,13,38,37
+32758,Mauro Arambarri,Uruguay,Central Midfield,1995-09-30,Getafe CF,82,La Liga,PD,6,2.0,2.0,32,€10.00mLast update: 12/12/2025,10.0,"1,75 m",right,6,44,28
+140814,Samuel Almeida Costa,Portugal,Defensive Midfield,2000-11-27,RCD Mallorca,89,La Liga,PD,6,2.0,,30,€15.00mLast update: 12/12/2025,15.0,"1,85 m",left,16,35,41
+16173,Viktor Tsyhankov,Ukraine,Right Winger,1997-11-15,Girona FC,298,La Liga,PD,6,4.0,,27,€15.00mLast update: 12/12/2025,15.0,"1,78 m",left,14,38,36
+136349,Largie Ramazani,Belgium,Left Winger,2001-02-27,Valencia CF,95,La Liga,PD,6,1.0,3.0,26,€8.00mLast update: 16/03/2026,8.0,"1,68 m",right,11,39,37
+101870,Roberto Navarro,Spain,Attacking Midfield,2002-04-12,Athletic Club,77,La Liga,PD,5,1.0,,30,-,,,right,9,41,36
+182319,Orri Oskarsson,Iceland,Offence,2004-08-29,Real Sociedad de Fútbol,92,La Liga,PD,5,,,16,€12.00mLast update: 12/12/2025,12.0,"1,86 m",right,8,42,49
+213404,Carlos Vicente,Spain,Right Winger,1999-04-23,Deportivo Alavés,263,La Liga,PD,5,,3.0,21,€7.00mLast update: 12/12/2025,7.0,"1,79 m",right,15,36,38
+186564,Carlos Romero,Spain,Left-Back,2001-10-29,RCD Espanyol de Barcelona,80,La Liga,PD,5,1.0,,30,-,,,,13,38,37
+45680,Nicolás González,Argentina,Right Winger,1998-04-06,Club Atlético de Madrid,78,La Liga,PD,5,,,24,€45.00mLast update: 09/12/2025,45.0,"1,88 m",right,4,60,56
+130324,Raúl,Spain,Centre-Forward,2000-11-03,CA Osasuna,79,La Liga,PD,5,,,31,€800kLast update: 23/12/2025,0.8,"1,90 m",right,10,39,37
+33615,Brais Méndez,Spain,Attacking Midfield,1997-01-07,Real Sociedad de Fútbol,92,La Liga,PD,5,2.0,1.0,28,€12.00mLast update: 12/12/2025,12.0,"1,84 m",left,8,42,49
+122511,Azzedine Ounahi,Morocco,Central Midfield,2000-04-19,Girona FC,298,La Liga,PD,5,2.0,1.0,19,€10.00mLast update: 12/12/2025,10.0,"1,82 m",right,14,38,36
+16275,Djibril Sow,Switzerland,Central Midfield,1997-02-06,Sevilla FC,559,La Liga,PD,5,1.0,,30,€7.50mLast update: 12/12/2025,7.5,"1,84 m",right,18,34,39
+273423,Víctor Muñoz,Spain,Offence,2003-07-13,CA Osasuna,79,La Liga,PD,5,2.0,,32,€20.00mLast update: 16/03/2026,20.0,"1,73 m",right,10,39,37
+189369,Alvaro Rodriguez,Spain,Centre-Forward,2004-07-14,Elche CF,285,La Liga,PD,5,4.0,,31,-,,"1,80 m",,17,35,42
+146126,Ilyas Chaira,Morocco,Right Winger,2001-02-02,Real Oviedo,1048,La Liga,PD,5,2.0,,30,€4.00mLast update: 12/12/2025,4.0,"1,79 m",right,20,28,25
+96,Federico Valverde,Uruguay,Central Midfield,1998-07-22,Real Madrid CF,86,La Liga,PD,5,6.0,,30,€120.00mLast update: 12/12/2025,120.0,"1,82 m",right,2,74,68
+32312,Álvaro García,Spain,Left Winger,1992-10-27,Rayo Vallecano de Madrid,87,La Liga,PD,4,5.0,,30,€1.80mLast update: 12/12/2025,1.8,"1,67 m",both,12,38,30
+633,Pape Gueye,Senegal,Defensive Midfield,1999-01-24,Villarreal CF,94,La Liga,PD,4,2.0,1.0,27,€40.00mLast update: 16/03/2026,40.0,"1,89 m",left,3,62,57
+157135,Nico Williams,Spain,Left Winger,2002-07-12,Athletic Club,77,La Liga,PD,4,3.0,1.0,23,€50.00mLast update: 16/03/2026,50.0,"1,81 m",right,9,41,36
+33045,Aitor Ruibal,Spain,Right-Back,1996-03-22,Real Betis Balompié,90,La Liga,PD,4,2.0,,29,€4.00mLast update: 16/03/2026,4.0,"1,76 m",right,5,50,49
+137485,Germán Valera,Spain,Right Winger,2002-03-16,Elche CF,285,La Liga,PD,4,4.0,,31,€6.00mLast update: 16/03/2026,6.0,"1,70 m",left,17,35,42
+171964,Giuliano Simeone,Argentina,Right Winger,2002-12-18,Club Atlético de Madrid,78,La Liga,PD,4,6.0,,31,€40.00mLast update: 12/12/2025,40.0,"1,73 m",right,4,60,56
+213043,Isaac,Spain,Centre-Forward,2000-05-18,Sevilla FC,559,La Liga,PD,4,,,28,€110.00mLast update: 09/12/2025,110.0,"1,78 m",right,18,34,39
+169162,Arda Guler,Turkey,Right Winger,2005-02-25,Real Madrid CF,86,La Liga,PD,4,9.0,,31,€90.00mLast update: 12/12/2025,90.0,"1,75 m",left,2,74,68
+69,Borja Mayoral,Spain,Centre-Forward,1997-04-05,Getafe CF,82,La Liga,PD,4,1.0,,16,€7.50mLast update: 12/12/2025,7.5,"1,82 m",right,6,44,28
+191053,Alberto Reina,Spain,Midfield,1997-09-09,Real Oviedo,1048,La Liga,PD,4,1.0,,31,€2.00mLast update: 16/03/2026,2.0,"1,79 m",right,20,28,25
+3201,Iago Aspas,Spain,Centre-Forward,1987-08-01,RC Celta de Vigo,558,La Liga,PD,4,3.0,2.0,31,€1.80mLast update: 12/12/2025,1.8,"1,76 m",left,7,44,44
+33148,Carlos Soler,Spain,Central Midfield,1997-01-02,Real Sociedad de Fútbol,92,La Liga,PD,4,3.0,,28,€8.00mLast update: 12/12/2025,8.0,"1,80 m",right,8,42,49
+125010,Jude Bellingham,England,Attacking Midfield,2003-06-29,Real Madrid CF,86,La Liga,PD,4,3.0,,22,€140.00mLast update: 16/03/2026,140.0,"1,86 m",right,2,74,68
+170438,Williot Swedberg,Sweden,Left Winger,2004-02-01,RC Celta de Vigo,558,La Liga,PD,4,3.0,,26,€15.00mLast update: 16/03/2026,15.0,"1,87 m",right,7,44,44
+217658,Gonzalo García,Spain,Right Winger,2004-03-24,Real Madrid CF,86,La Liga,PD,4,,,32,€30.00mLast update: 16/03/2026,30.0,"1,82 m",both,2,74,68
+152458,Martin Satriano,Uruguay,Centre-Forward,2001-02-20,Getafe CF,82,La Liga,PD,4,1.0,,14,€6.00mLast update: 15/12/2025,6.0,"1,87 m",right,6,44,28
+33496,Isi Palazón,Spain,Right Winger,1994-12-27,Rayo Vallecano de Madrid,87,La Liga,PD,3,2.0,2.0,30,€3.00mLast update: 12/12/2025,3.0,"1,69 m",left,12,38,30
+180280,Casals,Spain,Defence,2005-01-01,Girona FC,298,La Liga,PD,3,1.0,,29,€5.00mLast update: 12/12/2025,5.0,"1,76 m",right,14,38,36
+180061,Diego López,Spain,Right Winger,2002-05-13,Valencia CF,95,La Liga,PD,3,,,31,-,,"1,96 m",right,11,39,37
+249599,Adri Liso,Spain,Midfield,2005-04-02,Getafe CF,82,La Liga,PD,3,,,29,,,,,6,44,28
+101182,Ander Barrenetxea,Spain,Left Winger,2001-12-27,Real Sociedad de Fútbol,92,La Liga,PD,3,4.0,,26,€18.00mLast update: 16/03/2026,18.0,"1,75 m",right,8,42,49
+126878,Oihan Sancet,Spain,Attacking Midfield,2000-04-25,Athletic Club,77,La Liga,PD,3,,2.0,26,€35.00mLast update: 16/03/2026,35.0,"1,88 m",right,9,41,36
+175869,Hugo Alvarez,Spain,Left Winger,2003-07-02,RC Celta de Vigo,558,La Liga,PD,3,1.0,,28,€8.00mLast update: 12/12/2025,8.0,"1,76 m",right,7,44,44
+9870,Arnaut Danjuma,Netherlands,Left Winger,1997-01-31,Valencia CF,95,La Liga,PD,3,2.0,,32,€4.00mLast update: 12/12/2025,4.0,"1,78 m",right,11,39,37
+21583,Cédric Bakambu,DR Congo,Centre-Forward,1991-04-11,Real Betis Balompié,90,La Liga,PD,3,1.0,,26,€1.40mLast update: 12/12/2025,1.4,"1,82 m",right,5,50,49
+156525,Carlos Álvarez,Spain,Midfield,2003-08-06,Levante UD,88,La Liga,PD,3,2.0,,29,€15.00mLast update: 12/12/2025,15.0,"1,68 m",left,19,32,37
+31913,Ruben Vargas,Switzerland,Left Winger,1998-08-05,Sevilla FC,559,La Liga,PD,3,5.0,1.0,18,€12.00mLast update: 12/12/2025,12.0,"1,79 m",right,18,34,39
+7911,Alexis Sánchez,Chile,Centre-Forward,1988-12-19,Sevilla FC,559,La Liga,PD,3,1.0,1.0,25,€1.40mLast update: 12/12/2025,1.4,"1,69 m",right,18,34,39
+11040,Leandro Cabrera,Uruguay,Centre-Back,1991-06-17,RCD Espanyol de Barcelona,80,La Liga,PD,3,,,31,€1.00mLast update: 12/12/2025,1.0,"1,90 m",left,13,38,37
+28292,Ronald Araújo,Uruguay,Centre-Back,1999-03-07,FC Barcelona,81,La Liga,PD,3,,,27,€20.00mLast update: 16/03/2026,20.0,"1,92 m",right,1,85,87
+79953,Thiago Almada,Argentina,Attacking Midfield,2001-04-26,Club Atlético de Madrid,78,La Liga,PD,3,1.0,,27,€20.00mLast update: 12/12/2025,20.0,"1,71 m",right,4,60,56
+3171,Cristhian Stuani,Uruguay,Centre-Forward,1986-10-12,Girona FC,298,La Liga,PD,3,,3.0,21,€800kLast update: 16/03/2026,0.8,"1,84 m",right,14,38,36
+213263,Santi Comesaña,Spain,Midfield,1996-10-05,Villarreal CF,94,La Liga,PD,3,5.0,,30,€8.00mLast update: 12/12/2025,8.0,"1,88 m",both,3,62,57
+126913,Iker Losada,Spain,Offence,2001-08-01,Levante UD,88,La Liga,PD,3,1.0,,33,€1.40mLast update: 12/12/2025,1.4,"1,75 m",right,19,32,37
+156967,Luis Vázquez,Argentina,Offence,2001-01-24,Getafe CF,82,La Liga,PD,3,,,13,€2.50mLast update: 16/03/2026,2.5,"1,90 m",right,6,44,28
+159520,Pablo Torre,Spain,Attacking Midfield,2003-04-03,RCD Mallorca,89,La Liga,PD,3,3.0,,33,€5.00mLast update: 12/12/2025,5.0,"1,73 m",right,16,35,41
+82516,Luka Sučić,Croatia,Central Midfield,2002-09-08,Real Sociedad de Fútbol,92,La Liga,PD,3,1.0,,29,€10.00mLast update: 12/12/2025,10.0,"1,85 m",left,8,42,49
+3369,Thomas Lemar,France,Attacking Midfield,1995-11-12,Girona FC,298,La Liga,PD,3,1.0,,24,€2.00mLast update: 12/12/2025,2.0,"1,71 m",left,14,38,36
+7672,Umar Sadiq,Nigeria,Centre-Forward,1997-02-02,Valencia CF,95,La Liga,PD,3,2.0,,26,,,,,11,39,37
+48555,Takefusa Kubo,Japan,Right Winger,2001-06-04,Real Sociedad de Fútbol,92,La Liga,PD,2,4.0,,21,€30.00mLast update: 12/12/2025,30.0,"1,73 m",left,8,42,49
+8004,Harry Kane,England,Centre-Forward,1993-07-28,FC Bayern München,5,Bundesliga,BL1,33,4.0,10.0,29,€65.00mLast update: 19/12/2025,65.0,"1,88 m",right,1,82,113
+6928,Deniz Undav,Germany,Centre-Forward,1996-07-19,VfB Stuttgart,10,Bundesliga,BL1,18,5.0,,25,€22.00mLast update: 20/03/2026,22.0,"1,79 m",both,5,56,62
+22396,Luis Díaz,Colombia,Left Winger,1997-01-13,FC Bayern München,5,Bundesliga,BL1,15,11.0,,29,€70.00mLast update: 19/12/2025,70.0,"1,80 m",right,1,82,113
+211,Sehrou Guirassy,Guinea,Centre-Forward,1996-03-12,Borussia Dortmund,4,Bundesliga,BL1,14,,1.0,30,€40.00mLast update: 19/12/2025,40.0,"1,87 m",right,2,64,61
+113765,Michael Olise,France,Right Winger,2001-12-12,FC Bayern München,5,Bundesliga,BL1,13,18.0,,30,€140.00mLast update: 20/03/2026,140.0,"1,84 m",left,1,82,113
+1826,Patrik Schick,Czech Republic,Centre-Forward,1996-01-24,Bayer 04 Leverkusen,3,Bundesliga,BL1,13,2.0,4.0,25,€20.00mLast update: 20/03/2026,20.0,"1,91 m",left,6,55,62
+56829,Christoph Baumgartner,Austria,Attacking Midfield,1999-08-01,RB Leipzig,721,Bundesliga,BL1,12,7.0,,30,€30.00mLast update: 20/03/2026,30.0,"1,80 m",right,3,62,62
+318,Andrej Kramarić,Croatia,Centre-Forward,1991-06-19,TSG 1899 Hoffenheim,2,Bundesliga,BL1,12,5.0,5.0,31,€3.00mLast update: 19/12/2025,3.0,"1,77 m",right,4,57,61
+277484,Yan Diomandé,Ivory Coast,Offence,2006-11-14,RB Leipzig,721,Bundesliga,BL1,12,7.0,,30,€75.00mLast update: 20/03/2026,75.0,"1,80 m",right,3,62,62
+320,Nadiem Amiri,Germany,Central Midfield,1996-10-27,1. FSV Mainz 05,15,Bundesliga,BL1,11,2.0,8.0,23,€17.00mLast update: 19/12/2025,17.0,"1,80 m",right,10,34,39
+247659,Said El Mala,Germany,Offence,2006-08-26,1. FC Köln,1,Bundesliga,BL1,11,4.0,1.0,31,€35.00mLast update: 20/03/2026,35.0,"1,87 m",both,13,31,45
+63218,Haris Tabaković,Bosnia-Herzegovina,Offence,1994-06-20,Borussia Mönchengladbach,18,Bundesliga,BL1,11,1.0,,30,€3.00mLast update: 19/12/2025,3.0,"1,96 m",right,11,32,36
+145562,Fisnik Asllani,Kosovo,Centre-Forward,2002-08-08,TSG 1899 Hoffenheim,2,Bundesliga,BL1,10,5.0,,31,€30.00mLast update: 19/12/2025,30.0,"1,91 m",both,4,57,61
+82404,Jonathan Burkardt,Germany,Centre-Forward,2000-07-11,Eintracht Frankfurt,19,Bundesliga,BL1,10,,2.0,19,€35.00mLast update: 19/12/2025,35.0,"1,81 m",right,7,43,56
+178783,Romulo Cruz,Brazil,Offence,2002-02-08,RB Leipzig,721,Bundesliga,BL1,9,3.0,,27,,,,,3,62,62
+33242,Ermedin Demirovic,Bosnia-Herzegovina,Centre-Forward,1998-03-25,VfB Stuttgart,10,Bundesliga,BL1,9,3.0,1.0,21,€22.00mLast update: 19/12/2025,22.0,"1,85 m",right,5,56,62
+23925,Jens Stage,Denmark,Central Midfield,1996-11-08,SV Werder Bremen,12,Bundesliga,BL1,9,2.0,,25,€14.00mLast update: 19/12/2025,14.0,"1,87 m",right,15,31,35
+144433,Tim Lemperle,Germany,Centre-Forward,2002-02-05,TSG 1899 Hoffenheim,2,Bundesliga,BL1,8,2.0,1.0,26,€15.00mLast update: 20/03/2026,15.0,"1,87 m",right,4,57,61
+180827,Mohammed Amoura,Algeria,Offence,2000-05-09,VfL Wolfsburg,11,Bundesliga,BL1,8,3.0,1.0,28,,,,,17,25,41
+311,Serge Gnabry,Germany,Right Winger,1995-07-14,FC Bayern München,5,Bundesliga,BL1,8,6.0,,25,€20.00mLast update: 19/12/2025,20.0,"1,76 m",right,1,82,113
+16739,Alejandro Grimaldo,Spain,Left-Back,1995-09-20,Bayer 04 Leverkusen,3,Bundesliga,BL1,8,7.0,3.0,27,€24.00mLast update: 19/12/2025,24.0,"1,71 m",left,6,55,62
+156629,Igor Matanovic,Croatia,Centre-Forward,2003-03-31,SC Freiburg,17,Bundesliga,BL1,8,1.0,1.0,28,€10.00mLast update: 20/03/2026,10.0,"1,94 m",right,8,43,44
+133903,Maximilian Beier,Germany,Centre-Forward,2002-10-17,Borussia Dortmund,4,Bundesliga,BL1,8,3.0,,29,€40.00mLast update: 20/03/2026,40.0,"1,85 m",right,2,64,61
+6686,Vincenzo Grifo,Italy,Left Winger,1993-04-07,SC Freiburg,17,Bundesliga,BL1,7,3.0,4.0,30,€5.00mLast update: 19/12/2025,5.0,"1,80 m",right,8,43,44
+148,Julian Brandt,Germany,Attacking Midfield,1996-05-02,Borussia Dortmund,4,Bundesliga,BL1,7,3.0,,28,€20.00mLast update: 19/12/2025,20.0,"1,85 m",right,2,64,61
+6836,Grischa Prömel,Germany,Central Midfield,1995-01-09,TSG 1899 Hoffenheim,2,Bundesliga,BL1,7,2.0,,31,€3.50mLast update: 20/03/2026,3.5,"1,84 m",right,4,57,61
+127401,Jakub Kamiński,Poland,Left Winger,2002-06-05,1. FC Köln,1,Bundesliga,BL1,7,3.0,,31,€12.00mLast update: 19/12/2025,12.0,"1,79 m",right,13,31,45
+82515,Karim Adeyemi,Germany,Left Winger,2002-01-18,Borussia Dortmund,4,Bundesliga,BL1,7,3.0,,27,€50.00mLast update: 20/03/2026,50.0,"1,80 m",left,2,64,61
+152515,Nicolas Jackson,Senegal,Centre-Forward,2001-06-20,FC Bayern München,5,Bundesliga,BL1,7,1.0,,23,€40.00mLast update: 20/03/2026,40.0,"1,87 m",right,1,82,113
+7772,Ragnar Ache,Germany,Centre-Forward,1998-07-28,1. FC Köln,1,Bundesliga,BL1,7,3.0,,29,€8.00mLast update: 20/03/2026,8.0,"1,83 m",right,13,31,45
+123333,Jamie Leweling,Germany,Right Winger,2001-02-26,VfB Stuttgart,10,Bundesliga,BL1,7,7.0,,28,€40.00mLast update: 20/03/2026,40.0,"1,85 m",both,5,56,62
+184970,Dzenan Pejcinovic,Germany,Centre-Forward,2005-02-15,VfL Wolfsburg,11,Bundesliga,BL1,7,,,30,€10.00mLast update: 20/03/2026,10.0,"1,90 m",left,17,25,41
+193605,Can Uzun,Turkey,Attacking Midfield,2005-11-11,Eintracht Frankfurt,19,Bundesliga,BL1,6,4.0,1.0,20,€45.00mLast update: 19/12/2025,45.0,"1,86 m",right,7,43,56
+144470,Malik Tillman,USA,Attacking Midfield,2002-05-28,Bayer 04 Leverkusen,3,Bundesliga,BL1,6,,,26,€30.00mLast update: 20/03/2026,30.0,"1,87 m",right,6,55,62
+152692,Fabian Rieder,Switzerland,Right Winger,2002-02-16,FC Augsburg,16,Bundesliga,BL1,6,3.0,2.0,29,€8.00mLast update: 19/12/2025,8.0,"1,79 m",left,9,37,39
+206,Chris Führich,Germany,Left Winger,1998-01-09,VfB Stuttgart,10,Bundesliga,BL1,6,6.0,,30,€10.00mLast update: 19/12/2025,10.0,"1,81 m",right,5,56,62
+130668,Arnaud Kalimuendo,France,Centre-Forward,2002-01-20,Eintracht Frankfurt,19,Bundesliga,BL1,6,1.0,,16,€25.00mLast update: 09/12/2025,25.0,"1,78 m",right,7,43,56
+122949,Justin Njinmah,Germany,Right Winger,2000-11-15,SV Werder Bremen,12,Bundesliga,BL1,5,,,30,€7.00mLast update: 19/12/2025,7.0,"1,85 m",right,15,31,35
+211740,Ilyas Ansah,Germany,Left Winger,2004-11-08,1. FC Union Berlin,28,Bundesliga,BL1,5,1.0,,31,€12.00mLast update: 19/12/2025,12.0,"1,97 m",right,12,32,35
+15243,Danel Sinani,Luxembourg,Right Winger,1997-04-05,FC St. Pauli 1910,20,Bundesliga,BL1,5,3.0,3.0,29,€3.00mLast update: 19/12/2025,3.0,"1,85 m",left,16,26,26
+7531,Ritsu Doan,Japan,Right Winger,1998-06-16,Eintracht Frankfurt,19,Bundesliga,BL1,5,4.0,,30,€20.00mLast update: 20/03/2026,20.0,"1,72 m",left,7,43,56
+6537,Gian-Luca Waldschmidt,Germany,Centre-Forward,1996-05-19,1. FC Köln,1,Bundesliga,BL1,5,4.0,2.0,29,€2.00mLast update: 19/12/2025,2.0,"1,81 m",left,13,31,45
+150432,Paul Nebel,Germany,Midfield,2002-10-10,1. FSV Mainz 05,15,Bundesliga,BL1,5,1.0,,27,€15.00mLast update: 20/03/2026,15.0,"1,69 m",both,10,34,39
+216835,Luka Vušković,Croatia,Defence,2007-02-24,Hamburger SV,7,Bundesliga,BL1,5,,1.0,26,€60.00mLast update: 20/03/2026,60.0,"1,93 m",right,14,31,34
+125686,Rayan Philippe,France,Centre-Forward,2000-10-23,Hamburger SV,7,Bundesliga,BL1,5,,,29,€4.00mLast update: 19/12/2025,4.0,"1,82 m",left,14,31,34
+8027,Oliver Burke,Scotland,Right Winger,1997-04-07,1. FC Union Berlin,28,Bundesliga,BL1,5,1.0,,30,€4.00mLast update: 19/12/2025,4.0,"1,88 m",right,12,32,35
+64713,Edmond Tapsoba,Burkina Faso,Centre-Back,1999-02-02,Bayer 04 Leverkusen,3,Bundesliga,BL1,5,3.0,,26,€35.00mLast update: 19/12/2025,35.0,"1,94 m",right,6,55,62
+167793,Ernest Poku,Netherlands,Centre-Forward,2004-01-28,Bayer 04 Leverkusen,3,Bundesliga,BL1,5,5.0,,30,€25.00mLast update: 20/03/2026,25.0,"1,76 m",right,6,55,62
+274045,Christian Kofane,Cameroon,Offence,2006-07-26,Bayer 04 Leverkusen,3,Bundesliga,BL1,5,3.0,,29,€40.00mLast update: 20/03/2026,40.0,"1,89 m",right,6,55,62
+8862,Albert Sambi Lokonga,Belgium,Central Midfield,1999-10-22,Hamburger SV,7,Bundesliga,BL1,5,,,24,€10.00mLast update: 20/03/2026,10.0,"1,83 m",right,14,31,34
+67886,Danilho Doekhi,Suriname,Centre-Back,1998-06-30,1. FC Union Berlin,28,Bundesliga,BL1,5,,,31,€13.00mLast update: 19/12/2025,13.0,"1,90 m",right,12,32,35
+6657,Rani Khedira,Germany,Defensive Midfield,1994-01-27,1. FC Union Berlin,28,Bundesliga,BL1,5,1.0,,30,€2.00mLast update: 19/12/2025,2.0,"1,89 m",right,12,32,35
+6549,Maximilian Mittelstädt,Germany,Left-Back,1997-03-18,VfB Stuttgart,10,Bundesliga,BL1,5,3.0,3.0,29,€18.00mLast update: 19/12/2025,18.0,"1,80 m",left,5,56,62
+10369,Stefan Schimmer,Germany,Centre-Forward,1994-04-28,1. FC Heidenheim 1846,44,Bundesliga,BL1,5,1.0,,28,€500kLast update: 19/12/2025,0.5,"1,85 m",right,18,22,35
+3246,Raphaël Guerreiro,Portugal,Left-Back,1993-12-22,FC Bayern München,5,Bundesliga,BL1,5,2.0,,27,€6.00mLast update: 19/12/2025,6.0,"1,70 m",left,1,82,113
+277592,Lennart Karl,Germany,Midfield,2008-02-22,FC Bayern München,5,Bundesliga,BL1,5,4.0,,28,€60.00mLast update: 19/12/2025,60.0,"1,68 m",left,1,82,113
+137302,Ransford Königsdörffer,Ghana,Centre-Forward,2001-09-13,Hamburger SV,7,Bundesliga,BL1,5,1.0,,31,€4.00mLast update: 19/12/2025,4.0,"1,82 m",right,14,31,34
+212309,Johan Manzambi,Switzerland,Offence,2005-10-14,SC Freiburg,17,Bundesliga,BL1,5,2.0,,25,€35.00mLast update: 20/03/2026,35.0,"1,82 m",right,8,43,44
+112948,Fabio Vieira,Portugal,Attacking Midfield,2000-05-30,Hamburger SV,7,Bundesliga,BL1,5,5.0,1.0,26,€18.00mLast update: 19/12/2025,18.0,"1,70 m",left,14,31,34
+608,Alexis Claude Maurice,France,Attacking Midfield,1998-06-06,FC Augsburg,16,Bundesliga,BL1,5,4.0,1.0,28,€15.00mLast update: 20/03/2026,15.0,"1,76 m",right,9,37,39
+150860,Ansgar Knauff,Germany,Right Winger,2002-01-10,Eintracht Frankfurt,19,Bundesliga,BL1,4,1.0,,25,€15.00mLast update: 19/12/2025,15.0,"1,80 m",right,7,43,56
+145057,Tiago Tomás,Portugal,Centre-Forward,2002-06-16,VfB Stuttgart,10,Bundesliga,BL1,4,3.0,,23,€20.00mLast update: 23/12/2025,20.0,"1,83 m",left,5,56,62
+136168,Andreas Hountondji,Benin,Centre-Forward,2002-07-11,FC St. Pauli 1910,20,Bundesliga,BL1,4,,,18,€5.00mLast update: 19/12/2025,5.0,"1,90 m",right,16,26,26
+175704,Derry Scherhant,Germany,Left Winger,2002-11-10,SC Freiburg,17,Bundesliga,BL1,4,1.0,,30,€6.00mLast update: 19/12/2025,6.0,"1,85 m",right,8,43,44
+189873,Bilal El Khannouss,Morocco,Attacking Midfield,2005-05-09,VfB Stuttgart,10,Bundesliga,BL1,4,4.0,,23,€32.00mLast update: 19/12/2025,32.0,"1,80 m",right,5,56,62
+184533,Nathaniel Brown,Germany,Left-Back,2003-06-16,Eintracht Frankfurt,19,Bundesliga,BL1,4,4.0,,30,€35.00mLast update: 19/12/2025,35.0,"1,76 m",left,7,43,56
+45593,Phillip Tietz,Germany,Centre-Forward,1997-07-09,1. FSV Mainz 05,15,Bundesliga,BL1,4,2.0,,30,€3.50mLast update: 19/12/2025,3.5,"1,90 m",right,10,34,39
+179889,Jae-sung Lee,South Korea,Midfield,1992-08-10,1. FSV Mainz 05,15,Bundesliga,BL1,4,2.0,,26,€2.00mLast update: 19/12/2025,2.0,"1,80 m",left,10,34,39
+8797,Martin Terrier,France,Left Winger,1997-03-04,Bayer 04 Leverkusen,3,Bundesliga,BL1,4,1.0,,21,€12.00mLast update: 19/12/2025,12.0,"1,84 m",right,6,55,62
+169295,Antonio Nusa,Norway,Midfield,2005-04-17,RB Leipzig,721,Bundesliga,BL1,4,3.0,,28,€32.00mLast update: 19/12/2025,32.0,"1,83 m",right,3,62,62
+84525,Budu Zivzivadze,Georgia,Centre-Forward,1994-03-10,1. FC Heidenheim 1846,44,Bundesliga,BL1,4,,,17,€1.20mLast update: 19/12/2025,1.2,"1,89 m",both,18,22,35
+76770,Wouter Burger,Netherlands,Defensive Midfield,2001-02-16,TSG 1899 Hoffenheim,2,Bundesliga,BL1,4,5.0,,27,€20.00mLast update: 20/03/2026,20.0,"1,91 m",left,4,57,61
+7464,Kevin Diks,Indonesia,Defence,1996-10-06,Borussia Mönchengladbach,18,Bundesliga,BL1,4,,4.0,27,€5.00mLast update: 19/12/2025,5.0,"1,86 m",right,11,32,36
+145293,Yuito Suzuki,Japan,Offence,2001-10-25,SC Freiburg,17,Bundesliga,BL1,4,2.0,,28,€18.00mLast update: 20/03/2026,18.0,"1,75 m",right,8,43,44
+175963,Anton Kade,Germany,Offence,2004-01-17,FC Augsburg,16,Bundesliga,BL1,4,,,26,,,,,9,37,39
+124324,Patrick Wimmer,Austria,Right Winger,2001-05-30,VfL Wolfsburg,11,Bundesliga,BL1,4,3.0,,23,€15.00mLast update: 19/12/2025,15.0,"1,82 m",right,17,25,41
+75539,Nico Schlotterbeck,Germany,Centre-Back,1999-12-01,Borussia Dortmund,4,Bundesliga,BL1,4,1.0,,24,€55.00mLast update: 19/12/2025,55.0,"1,91 m",left,2,64,61
+75545,Marvin Pieringer,Germany,Centre-Forward,1999-10-04,1. FC Heidenheim 1846,44,Bundesliga,BL1,4,1.0,1.0,24,€4.00mLast update: 20/03/2026,4.0,"1,91 m",right,18,22,35
+30548,Ozan Kabak,Turkey,Centre-Back,2000-03-25,TSG 1899 Hoffenheim,2,Bundesliga,BL1,4,,,25,€10.00mLast update: 20/03/2026,10.0,"1,87 m",right,4,57,61
+8805,Ramy Bensebaini,Algeria,Left-Back,1995-04-16,Borussia Dortmund,4,Bundesliga,BL1,4,1.0,2.0,24,€7.00mLast update: 19/12/2025,7.0,"1,87 m",left,2,64,61
+6661,Michael Gregoritsch,Austria,Centre-Forward,1994-04-18,FC Augsburg,16,Bundesliga,BL1,4,1.0,1.0,15,€1.50mLast update: 15/12/2025,1.5,"1,93 m",left,9,37,39
+185882,Jean Bahoya,France,Left Winger,2005-05-07,Eintracht Frankfurt,19,Bundesliga,BL1,3,4.0,,26,,,,,7,43,56
+176718,Jarell Quansah,England,Centre-Back,2003-01-29,Bayer 04 Leverkusen,3,Bundesliga,BL1,3,,,27,€45.00mLast update: 20/03/2026,45.0,"1,90 m",right,6,55,62
+15354,Mattias Svanberg,Sweden,Central Midfield,1999-01-05,VfL Wolfsburg,11,Bundesliga,BL1,3,1.0,,22,€9.00mLast update: 20/03/2026,9.0,"1,85 m",right,17,25,41
+65441,Marius Bülter,Germany,Left Winger,1993-03-29,1. FC Köln,1,Bundesliga,BL1,3,4.0,,29,€2.00mLast update: 19/12/2025,2.0,"1,88 m",right,13,31,45
+16346,Romano Schmid,Austria,Attacking Midfield,2000-01-27,SV Werder Bremen,12,Bundesliga,BL1,3,8.0,3.0,30,€15.00mLast update: 20/03/2026,15.0,"1,68 m",right,15,31,35
+137031,Jan Thielmann,Germany,Right-Back,2002-05-26,1. FC Köln,1,Bundesliga,BL1,3,1.0,,24,€5.00mLast update: 19/12/2025,5.0,"1,78 m",right,13,31,45
+9452,Maximilian Eggestein,Germany,Central Midfield,1996-12-08,SC Freiburg,17,Bundesliga,BL1,3,1.0,,30,€10.00mLast update: 19/12/2025,10.0,"1,81 m",right,8,43,44
+202665,Aleksandar Pavlović,Germany,Defensive Midfield,2004-05-03,FC Bayern München,5,Bundesliga,BL1,3,1.0,,29,€75.00mLast update: 20/03/2026,75.0,"1,88 m",both,1,82,113
+217678,Samuel Mbangula,Belgium,Left Winger,2004-01-16,SV Werder Bremen,12,Bundesliga,BL1,3,2.0,,25,€10.00mLast update: 20/03/2026,10.0,"1,79 m",right,15,31,35
+212636,Assan Ouédraogo,Germany,Midfield,2006-05-09,RB Leipzig,721,Bundesliga,BL1,3,3.0,,16,€28.00mLast update: 19/12/2025,28.0,"1,91 m",right,3,62,62
+9905,David Raum,Germany,Left-Back,1998-04-22,RB Leipzig,721,Bundesliga,BL1,3,6.0,1.0,29,€22.00mLast update: 20/03/2026,22.0,"1,81 m",left,3,62,62
+9549,Konrad Laimer,Austria,Central Midfield,1997-05-27,FC Bayern München,5,Bundesliga,BL1,3,8.0,,26,€32.00mLast update: 19/12/2025,32.0,"1,80 m",right,1,82,113
+9479,Robin Koch,Germany,Centre-Back,1996-07-17,Eintracht Frankfurt,19,Bundesliga,BL1,3,1.0,,29,€15.00mLast update: 19/12/2025,15.0,"1,92 m",right,7,43,56
+151888,Jens Castrop,South Korea,Central Midfield,2003-07-29,Borussia Mönchengladbach,18,Bundesliga,BL1,3,1.0,,27,€6.00mLast update: 19/12/2025,6.0,"1,78 m",right,11,32,36
+8597,Jean-Luc Dompé,France,Left Winger,1995-08-12,Hamburger SV,7,Bundesliga,BL1,3,,1.0,22,€3.50mLast update: 19/12/2025,3.5,"1,70 m",right,14,31,34
+61630,Marco Grüll,Austria,Midfield,1998-07-06,SV Werder Bremen,12,Bundesliga,BL1,3,1.0,,30,€6.00mLast update: 19/12/2025,6.0,"1,81 m",both,15,31,35
+249312,Bazoumana Touré,Ivory Coast,Midfield,2006-03-02,TSG 1899 Hoffenheim,2,Bundesliga,BL1,3,8.0,,30,€35.00mLast update: 20/03/2026,35.0,"1,75 m",left,4,57,61
+48988,Shuto Machino,Japan,Offence,1999-09-30,Borussia Mönchengladbach,18,Bundesliga,BL1,3,1.0,,30,€5.00mLast update: 20/03/2026,5.0,"1,85 m",right,11,32,36
+202532,Ibrahim Maza,Algeria,Attacking Midfield,2005-11-24,Bayer 04 Leverkusen,3,Bundesliga,BL1,3,3.0,,27,€40.00mLast update: 20/03/2026,40.0,"1,80 m",right,6,55,62
+3220,Lautaro Martínez,Argentina,Centre-Forward,1997-08-22,FC Internazionale Milano,108,Serie A,SA,16,4.0,,28,€85.00mLast update: 23/12/2025,85.0,"1,74 m",right,1,78,78
+203511,Nico Paz,Argentina,Attacking Midfield,2004-09-08,Como 1907,7397,Serie A,SA,12,6.0,,32,€65.00mLast update: 23/12/2025,65.0,"1,86 m",left,6,58,57
+43285,Anastasios Douvikas,Greece,Centre-Forward,1999-08-02,Como 1907,7397,Serie A,SA,11,1.0,1.0,33,€18.00mLast update: 24/03/2026,18.0,"1,86 m",right,6,58,57
+8685,Marcus Thuram-Ulien,France,Centre-Forward,1997-08-06,FC Internazionale Milano,108,Serie A,SA,11,5.0,,27,,,,,1,78,78
+152770,Rasmus Højlund,Denmark,Centre-Forward,2003-02-04,SSC Napoli,113,Serie A,SA,11,3.0,1.0,29,€50.00mLast update: 24/03/2026,50.0,"1,91 m",left,2,69,52
+7457,Donyell Malen,Netherlands,Right Winger,1999-01-19,AS Roma,100,Serie A,SA,11,1.0,2.0,14,€35.00mLast update: 24/03/2026,35.0,"1,76 m",right,5,61,48
+3896,Keinan Davis,England,Centre-Forward,1998-02-13,Udinese Calcio,115,Serie A,SA,10,3.0,4.0,27,€9.00mLast update: 24/03/2026,9.0,"1,89 m",left,11,43,38
+191712,Kenan Yıldız,Turkey,Left Winger,2005-05-04,Juventus FC,109,Serie A,SA,10,6.0,1.0,32,€75.00mLast update: 23/12/2025,75.0,"1,87 m",both,4,63,57
+120679,Nikola Krstović,Montenegro,Centre-Forward,2000-04-05,Atalanta BC,102,Serie A,SA,10,4.0,,33,€25.00mLast update: 24/03/2026,25.0,"1,85 m",right,7,54,45
+7905,Scott McTominay,Scotland,Central Midfield,1996-12-08,SSC Napoli,113,Serie A,SA,9,3.0,,29,€45.00mLast update: 23/12/2025,45.0,"1,91 m",right,2,69,52
+1754,Hakan Çalhanoğlu,Turkey,Defensive Midfield,1994-02-08,FC Internazionale Milano,108,Serie A,SA,9,4.0,4.0,24,€18.00mLast update: 24/03/2026,18.0,"1,78 m",right,1,78,78
+1789,Giovanni Simeone,Argentina,Centre-Forward,1995-07-05,Torino FC,586,Serie A,SA,9,,,29,€5.00mLast update: 23/12/2025,5.0,"1,80 m",right,13,40,37
+15892,Rafael Leão,Portugal,Left Winger,1999-06-10,AC Milan,98,Serie A,SA,9,3.0,2.0,26,€65.00mLast update: 24/03/2026,65.0,"1,88 m",right,3,66,48
+2681,Gianluca Scamacca,Italy,Centre-Forward,1999-01-01,Atalanta BC,102,Serie A,SA,8,1.0,2.0,26,€25.00mLast update: 23/12/2025,25.0,"1,95 m",right,7,54,45
+2016,Andrea Pinamonti,Italy,Centre-Forward,1999-05-19,US Sassuolo Calcio,471,Serie A,SA,8,3.0,,31,€15.00mLast update: 23/12/2025,15.0,"1,85 m",right,10,45,41
+145,Christian Pulisic,USA,Right Winger,1998-09-18,AC Milan,98,Serie A,SA,8,3.0,,27,€50.00mLast update: 24/03/2026,50.0,"1,77 m",right,3,66,48
+1886,Riccardo Orsolini,Italy,Right Winger,1997-01-24,Bologna FC 1909,103,Serie A,SA,8,1.0,3.0,34,€18.00mLast update: 24/03/2026,18.0,"1,86 m",left,8,48,42
+157538,Mateo Pellegrino,Argentina,Centre-Forward,2001-10-22,Parma Calcio 1913,112,Serie A,SA,8,1.0,1.0,33,€15.00mLast update: 24/03/2026,15.0,"1,92 m",left,12,42,25
+2171,Moise Kean,Italy,Centre-Forward,2000-02-28,ACF Fiorentina,99,Serie A,SA,8,1.0,2.0,27,€40.00mLast update: 24/03/2026,40.0,"1,83 m",right,15,36,38
+2373,Federico Bonazzoli,Italy,Centre-Forward,1997-05-21,US Cremonese,457,Serie A,SA,7,2.0,2.0,33,€2.50mLast update: 24/03/2026,2.5,"1,85 m",left,18,28,26
+2202,Domenico Berardi,Italy,Right Winger,1994-08-01,US Sassuolo Calcio,471,Serie A,SA,7,4.0,2.0,22,€7.50mLast update: 23/12/2025,7.5,"1,83 m",left,10,45,41
+170891,Santiago Castro,Argentina,Centre-Forward,2004-09-18,Bologna FC 1909,103,Serie A,SA,7,2.0,,34,€35.00mLast update: 23/12/2025,35.0,"1,79 m",right,8,48,42
+191892,Gift Orban,Nigeria,Centre-Forward,2002-07-17,Hellas Verona FC,450,Serie A,SA,7,2.0,2.0,29,€10.00mLast update: 24/03/2026,10.0,"1,78 m",right,19,19,23
+144566,Lorenzo Colombo,Italy,Centre-Forward,2002-03-08,Genoa CFC,107,Serie A,SA,7,1.0,1.0,33,€10.00mLast update: 24/03/2026,10.0,"1,83 m",left,14,39,40
+7843,Nikola Vlašić,Croatia,Attacking Midfield,1997-10-04,Torino FC,586,Serie A,SA,7,3.0,4.0,32,€9.00mLast update: 23/12/2025,9.0,"1,79 m",right,13,40,37
+2230,Rolando Mandragora,Italy,Defensive Midfield,1997-06-29,ACF Fiorentina,99,Serie A,SA,6,3.0,1.0,30,€10.00mLast update: 23/12/2025,10.0,"1,83 m",left,15,36,38
+8924,Jonathan David,Canada,Centre-Forward,2000-01-14,Juventus FC,109,Serie A,SA,6,4.0,,33,€35.00mLast update: 23/12/2025,35.0,"1,78 m",both,4,63,57
+171121,Matias Soule,Argentina,Right Winger,2003-04-15,AS Roma,100,Serie A,SA,6,5.0,,29,€35.00mLast update: 23/12/2025,35.0,"1,82 m",left,5,61,48
+30821,Federico Dimarco,Italy,Left-Back,1997-11-10,FC Internazionale Milano,108,Serie A,SA,6,14.0,,33,€50.00mLast update: 23/12/2025,50.0,"1,75 m",left,1,78,78
+215433,Francesco Esposito,Italy,Offence,2005-06-28,FC Internazionale Milano,108,Serie A,SA,6,4.0,,32,€45.00mLast update: 24/03/2026,45.0,"1,91 m",right,1,78,78
+172183,Ismael Kone,Canada,Midfield,2002-06-06,US Sassuolo Calcio,471,Serie A,SA,6,,,31,€20.00mLast update: 24/03/2026,20.0,"1,88 m",right,10,45,41
+4119,Che Adams,Scotland,Centre-Forward,1996-07-13,Torino FC,586,Serie A,SA,6,2.0,,31,€8.50mLast update: 23/12/2025,8.5,"1,79 m",right,13,40,37
+114054,Sebastiano Esposito,Italy,Offence,2002-07-02,Cagliari Calcio,104,Serie A,SA,6,5.0,1.0,32,€12.00mLast update: 24/03/2026,12.0,"1,83 m",right,16,33,33
+2097,Piotr Zieliński,Poland,Central Midfield,1994-05-20,FC Internazionale Milano,108,Serie A,SA,6,2.0,1.0,33,€10.00mLast update: 23/12/2025,10.0,"1,80 m",both,1,78,78
+2436,Stefano Moreo,Italy,Offence,1993-06-30,AC Pisa 1909,487,Serie A,SA,6,1.0,2.0,34,€1.50mLast update: 23/12/2025,1.5,"1,91 m",right,20,18,24
+179561,Ruslan Malinovskiy,Ukraine,Midfield,1993-05-04,Genoa CFC,107,Serie A,SA,6,3.0,3.0,31,€2.50mLast update: 23/12/2025,2.5,"1,81 m",left,14,39,40
+156912,Martin Baturina,Croatia,Midfield,2003-02-16,Como 1907,7397,Serie A,SA,6,3.0,,32,€24.00mLast update: 24/03/2026,24.0,"1,72 m",right,6,58,57
+3368,Adrien Rabiot,France,Central Midfield,1995-04-03,AC Milan,98,Serie A,SA,6,4.0,,24,€20.00mLast update: 23/12/2025,20.0,"1,91 m",left,3,66,48
+3654,Kevin De Bruyne,Belgium,Attacking Midfield,1991-06-28,SSC Napoli,113,Serie A,SA,5,1.0,3.0,15,€10.00mLast update: 24/03/2026,10.0,"1,81 m",right,2,69,52
+152738,Ange-Yoan Bonny,Ivory Coast,Centre-Forward,2003-10-25,FC Internazionale Milano,108,Serie A,SA,5,3.0,,30,€35.00mLast update: 23/12/2025,35.0,"1,89 m",right,1,78,78
+8822,Armand Lauriente,France,Left Winger,1998-12-04,US Sassuolo Calcio,471,Serie A,SA,5,9.0,,33,€18.00mLast update: 24/03/2026,18.0,"1,77 m",right,10,45,41
+2017,Jens Odgaard,Denmark,Attacking Midfield,1999-03-31,Bologna FC 1909,103,Serie A,SA,5,1.0,,31,€15.00mLast update: 23/12/2025,15.0,"1,88 m",left,8,48,42
+2013,Nicolò Zaniolo,Italy,Attacking Midfield,1999-07-02,Udinese Calcio,115,Serie A,SA,5,6.0,,29,€13.00mLast update: 23/12/2025,13.0,"1,90 m",left,11,43,38
+3330,Jamie Vardy,England,Centre-Forward,1987-01-11,US Cremonese,457,Serie A,SA,5,2.0,,26,€1.00mLast update: 23/12/2025,1.0,"1,79 m",right,18,28,26
+3851,Albert Guðmundsson,Iceland,Offence,1997-06-15,ACF Fiorentina,99,Serie A,SA,5,4.0,3.0,30,€13.00mLast update: 23/12/2025,13.0,"1,77 m",right,15,36,38
+44032,Leo Østigård,Norway,Centre-Back,1999-11-28,Genoa CFC,107,Serie A,SA,5,,,29,€10.00mLast update: 23/12/2025,10.0,"1,83 m",right,14,39,40
+178736,Vitinha,Portugal,Offence,2000-03-15,Genoa CFC,107,Serie A,SA,5,1.0,,33,€110.00mLast update: 15/12/2025,110.0,"1,72 m",right,14,39,40
+7567,Jurgen Ekkelenkamp,Netherlands,Attacking Midfield,2000-04-05,Udinese Calcio,115,Serie A,SA,5,2.0,,33,€7.00mLast update: 23/12/2025,7.0,"1,88 m",right,11,43,38
+8484,Christopher Nkunku,France,Centre-Forward,1997-11-14,AC Milan,98,Serie A,SA,5,3.0,3.0,28,€28.00mLast update: 24/03/2026,28.0,"1,77 m",right,3,66,48
+6507,Weston McKennie,USA,Central Midfield,1998-08-28,Juventus FC,109,Serie A,SA,5,5.0,,32,€30.00mLast update: 24/03/2026,30.0,"1,85 m",right,4,63,57
+179558,Cesare Casadei,Italy,Central Midfield,2003-01-10,Torino FC,586,Serie A,SA,5,,,32,€14.00mLast update: 23/12/2025,14.0,"1,92 m",right,13,40,37
+112969,Strahinja Pavlović,Serbia,Centre-Back,2001-05-24,AC Milan,98,Serie A,SA,4,1.0,,32,€35.00mLast update: 24/03/2026,35.0,"1,94 m",left,3,66,48
+179164,Wesley,Brazil,Defence,2003-09-06,AS Roma,100,Serie A,SA,4,,,27,€28.00mLast update: 09/12/2025,28.0,"1,88 m",right,5,61,48
+8354,André Zambo Anguissa,Cameroon,Central Midfield,1995-11-16,SSC Napoli,113,Serie A,SA,4,1.0,,18,,,,,2,69,52
+4165,Caleb Ekuban,Ghana,Centre-Forward,1994-03-23,Genoa CFC,107,Serie A,SA,4,1.0,,29,€1.30mLast update: 23/12/2025,1.3,"1,82 m",right,14,39,40
+1819,Lorenzo Pellegrini,Italy,Attacking Midfield,1996-06-19,AS Roma,100,Serie A,SA,4,2.0,2.0,27,€9.00mLast update: 23/12/2025,9.0,"1,86 m",right,5,61,48
+9471,Marc-Oliver Kempf,Germany,Centre-Back,1995-01-28,Como 1907,7397,Serie A,SA,4,,,33,,,,,6,58,57
+161370,M'Bala Nzola,Angola,Offence,1996-08-18,US Sassuolo Calcio,471,Serie A,SA,4,1.0,2.0,26,€4.50mLast update: 24/03/2026,4.5,"1,85 m",left,10,45,41
+152787,Matteo Cancellieri,Italy,Right Winger,2002-02-12,SS Lazio,110,Serie A,SA,4,3.0,,27,€5.50mLast update: 23/12/2025,5.5,"1,85 m",left,9,47,34
+128007,Gustav Isaksen,Denmark,Right Winger,2001-04-19,SS Lazio,110,Serie A,SA,4,1.0,,29,€17.00mLast update: 23/12/2025,17.0,"1,81 m",left,9,47,34
+191289,Semih Kilicsoy,Turkey,Offence,2005-08-15,Cagliari Calcio,104,Serie A,SA,4,,,33,€13.00mLast update: 24/03/2026,13.0,"1,78 m",right,16,33,33
+124620,Lucas Da Cunha,France,Central Midfield,2001-06-09,Como 1907,7397,Serie A,SA,4,4.0,3.0,33,€20.00mLast update: 24/03/2026,20.0,"1,74 m",left,6,58,57
+1106,Bremer,Brazil,Centre-Back,1997-03-18,Juventus FC,109,Serie A,SA,4,3.0,,23,€35.00mLast update: 23/12/2025,35.0,"1,88 m",right,4,63,57
+4121,Jérémie Boga,Ivory Coast,Left Winger,1997-01-03,Juventus FC,109,Serie A,SA,4,1.0,,11,€8.00mLast update: 15/12/2025,8.0,"1,72 m",right,4,63,57
+82002,Dušan Vlahović,Serbia,Centre-Forward,2000-01-28,Juventus FC,109,Serie A,SA,3,,1.0,15,€35.00mLast update: 23/12/2025,35.0,"1,90 m",left,4,63,57
+8159,Ruben Loftus-Cheek,England,Central Midfield,1996-01-23,AC Milan,98,Serie A,SA,3,1.0,,27,€10.00mLast update: 23/12/2025,10.0,"1,91 m",right,3,66,48
+3553,Mario Pašalić,Croatia,Central Midfield,1995-02-09,Atalanta BC,102,Serie A,SA,3,4.0,,32,€7.00mLast update: 23/12/2025,7.0,"1,88 m",right,7,54,45
+7417,Denzel Dumfries,Netherlands,Right-Back,1996-04-18,FC Internazionale Milano,108,Serie A,SA,3,1.0,,18,€25.00mLast update: 23/12/2025,25.0,"1,88 m",right,1,78,78
+190552,Arthur Atta,France,Defensive Midfield,2003-01-14,Udinese Calcio,115,Serie A,SA,3,3.0,,27,€15.00mLast update: 23/12/2025,15.0,"1,89 m",right,11,43,38
+2158,Mattia Zaccagni,Italy,Left Winger,1995-06-16,SS Lazio,110,Serie A,SA,3,,,26,€12.00mLast update: 24/03/2026,12.0,"1,77 m",right,9,47,34
+99251,Khéphren Thuram-Ulie,France,Central Midfield,2001-03-26,Juventus FC,109,Serie A,SA,3,2.0,,31,€40.00mLast update: 23/12/2025,40.0,"1,92 m",right,4,63,57
+153990,Giorgio Scalvini,Italy,Centre-Back,2003-12-11,Atalanta BC,102,Serie A,SA,3,,,24,€30.00mLast update: 24/03/2026,30.0,"1,94 m",right,7,54,45
+129947,Charles De Ketelaere,Belgium,Attacking Midfield,2001-03-10,Atalanta BC,102,Serie A,SA,3,5.0,,26,€35.00mLast update: 23/12/2025,35.0,"1,92 m",left,7,54,45
+150791,Francisco Conceição,Portugal,Right Winger,2002-12-14,Juventus FC,109,Serie A,SA,3,4.0,,28,€30.00mLast update: 23/12/2025,30.0,"1,70 m",left,4,63,57
+178165,Jayden Addai,Netherlands,Right Winger,2005-08-26,Como 1907,7397,Serie A,SA,3,,,18,€20.00mLast update: 23/12/2025,20.0,"1,77 m",left,6,58,57
+1842,Leonardo Spinazzola,Italy,Left-Back,1993-03-25,SSC Napoli,113,Serie A,SA,3,4.0,,31,€3.50mLast update: 23/12/2025,3.5,"1,86 m",right,2,69,52
+24217,Artem Dovbyk,Ukraine,Centre-Forward,1997-06-21,AS Roma,100,Serie A,SA,3,1.0,,14,€15.00mLast update: 24/03/2026,15.0,"1,89 m",left,5,61,48
+8658,Lassana Coulibaly,Mali,Central Midfield,1996-04-10,US Lecce,5890,Serie A,SA,3,1.0,,30,€2.50mLast update: 23/12/2025,2.5,"1,83 m",right,17,29,22
+2329,Danilo Cataldi,Italy,Defensive Midfield,1994-08-06,SS Lazio,110,Serie A,SA,3,3.0,2.0,29,€3.50mLast update: 23/12/2025,3.5,"1,80 m",right,9,47,34
+1911,Nicolò Barella,Italy,Central Midfield,1997-02-07,FC Internazionale Milano,108,Serie A,SA,3,8.0,,30,€50.00mLast update: 24/03/2026,50.0,"1,75 m",right,1,78,78
+179159,Maximo Perrone,Argentina,Defensive Midfield,2003-01-07,Como 1907,7397,Serie A,SA,3,4.0,,32,€30.00mLast update: 24/03/2026,30.0,"1,77 m",left,6,58,57
+114101,Gennaro Borrelli,Italy,Offence,2000-03-10,Cagliari Calcio,104,Serie A,SA,3,1.0,,26,€3.00mLast update: 23/12/2025,3.0,"1,94 m",right,16,33,33
+8111,Christian Kabasele,Belgium,Centre-Back,1991-02-24,Udinese Calcio,115,Serie A,SA,3,,,33,€800kLast update: 23/12/2025,0.8,"1,87 m",right,11,43,38
+117606,Nicolò Cambiaghi,Italy,Offence,2000-12-28,Bologna FC 1909,103,Serie A,SA,3,4.0,,31,€16.00mLast update: 24/03/2026,16.0,"1,76 m",right,8,48,42
+263662,Jeff Ekhator,Italy,Centre-Forward,2006-11-11,Genoa CFC,107,Serie A,SA,3,,,33,€13.00mLast update: 24/03/2026,13.0,"1,88 m",right,14,39,40
+1847,Robin Gosens,Germany,Left-Back,1994-07-05,ACF Fiorentina,99,Serie A,SA,3,1.0,,26,€4.50mLast update: 24/03/2026,4.5,"1,83 m",left,15,36,38
+7421,Morten Thorsby,Norway,Central Midfield,1996-05-05,US Cremonese,457,Serie A,SA,3,1.0,,32,€3.00mLast update: 23/12/2025,3.0,"1,88 m",right,18,28,26
+3446,Filip Kostić,Serbia,Left Midfield,1992-11-01,Juventus FC,109,Serie A,SA,3,1.0,,33,€3.50mLast update: 23/12/2025,3.5,"1,84 m",left,4,63,57
+124865,Andrea Cambiaso,Italy,Left-Back,2000-02-20,Juventus FC,109,Serie A,SA,3,3.0,,31,€30.00mLast update: 23/12/2025,30.0,"1,82 m",both,4,63,57
+181795,Giovane Nascimento,Brazil,Offence,2003-11-24,Hellas Verona FC,450,Serie A,SA,3,6.0,,34,,,,,19,19,23
+92051,Adrián Bernabé,Spain,Central Midfield,2001-05-26,Parma Calcio 1913,112,Serie A,SA,3,1.0,,31,€15.00mLast update: 23/12/2025,15.0,"1,70 m",left,12,42,25
+102591,Roberto Piccoli,Italy,Centre-Forward,2001-01-27,ACF Fiorentina,99,Serie A,SA,3,1.0,,32,€16.00mLast update: 24/03/2026,16.0,"1,90 m",right,15,36,38
+7571,David Neres,Brazil,Right Winger,1997-03-03,SSC Napoli,113,Serie A,SA,3,3.0,,17,€28.00mLast update: 23/12/2025,28.0,"1,76 m",left,2,69,52
+130809,Evan Ferguson,Ireland,Centre-Forward,2004-10-19,AS Roma,100,Serie A,SA,3,2.0,,19,€25.00mLast update: 23/12/2025,25.0,"1,88 m",right,5,61,48
+171448,Tijjani Noslin,Netherlands,Right Winger,1999-07-07,SS Lazio,110,Serie A,SA,3,,,32,€6.50mLast update: 23/12/2025,6.5,"1,78 m",right,9,47,34
+44033,Kristian Thorstvedt,Norway,Attacking Midfield,1999-03-13,US Sassuolo Calcio,471,Serie A,SA,3,3.0,,27,€10.00mLast update: 23/12/2025,10.0,"1,89 m",left,10,45,41
+121808,Lameck Banda,Zambia,Left Winger,2001-01-29,US Lecce,5890,Serie A,SA,3,3.0,,31,€3.00mLast update: 23/12/2025,3.0,"1,69 m",right,17,29,22
+2271,Duván Zapata,Colombia,Centre-Forward,1991-04-01,Torino FC,586,Serie A,SA,3,1.0,,29,€3.00mLast update: 23/12/2025,3.0,"1,88 m",right,13,40,37
+221315,Nikola Štulić,Serbia,Offence,2001-09-08,US Lecce,5890,Serie A,SA,3,,1.0,33,€4.50mLast update: 23/12/2025,4.5,"1,88 m",right,17,29,22
+8462,Oumar Solet,France,Centre-Back,2000-02-07,Udinese Calcio,115,Serie A,SA,3,1.0,1.0,31,€20.00mLast update: 23/12/2025,20.0,"1,92 m",right,11,43,38
+149850,Esteban Lepaul,France,Centre-Forward,2000-04-18,Stade Rennais FC 1901,529,Ligue 1,FL1,17,4.0,2.0,30,€20.00mLast update: 27/03/2026,20.0,"1,81 m",right,5,53,52
+203561,Joaquín Panichelli,Argentina,Centre-Forward,2002-10-07,RC Strasbourg Alsace,576,Ligue 1,FL1,16,1.0,5.0,27,€35.00mLast update: 27/03/2026,35.0,"1,90 m",right,8,43,46
+101075,Mason Greenwood,England,Right Winger,2001-10-01,Olympique de Marseille,516,Ligue 1,FL1,15,7.0,5.0,29,€55.00mLast update: 27/03/2026,55.0,"1,81 m",both,6,52,58
+131040,Folarin Balogun,USA,Centre-Forward,2001-07-03,AS Monaco FC,548,Ligue 1,FL1,12,3.0,3.0,28,€30.00mLast update: 27/03/2026,30.0,"1,78 m",right,7,51,54
+16077,Odsonne Edouard,France,Centre-Forward,1998-01-16,Racing Club de Lens,546,Ligue 1,FL1,12,3.0,1.0,26,€12.00mLast update: 27/03/2026,12.0,"1,87 m",right,2,63,60
+8575,Wesley Saïd,France,Centre-Forward,1995-04-19,Racing Club de Lens,546,Ligue 1,FL1,10,2.0,1.0,26,€6.00mLast update: 27/03/2026,6.0,"1,71 m",right,2,63,60
+3370,Florian Thauvin,France,Offence,1993-01-26,Racing Club de Lens,546,Ligue 1,FL1,10,5.0,2.0,30,€5.00mLast update: 15/12/2025,5.0,"1,81 m",left,2,63,60
+172762,Bradley Barcola,France,Left Winger,2002-09-02,Paris Saint-Germain FC,524,Ligue 1,FL1,10,1.0,,27,€70.00mLast update: 15/12/2025,70.0,"1,82 m",right,1,69,68
+3373,Ousmane Dembélé,France,Right Winger,1997-05-15,Paris Saint-Germain FC,524,Ligue 1,FL1,10,6.0,2.0,20,€100.00mLast update: 15/12/2025,100.0,"1,78 m",both,1,69,68
+121312,Pavel Šulc,Czech Republic,Midfield,2000-12-29,Olympique Lyonnais,523,Ligue 1,FL1,10,3.0,,25,€20.00mLast update: 27/03/2026,20.0,"1,77 m",right,3,57,48
+552,Lassine Sinayoko,Mali,Left Winger,1999-12-08,AJ Auxerre,519,Ligue 1,FL1,9,3.0,3.0,29,€8.00mLast update: 27/03/2026,8.0,"1,86 m",right,16,25,27
+7801,Pierre-Emerick Aubameyang,Gabon,Centre-Forward,1989-06-18,Olympique de Marseille,516,Ligue 1,FL1,9,5.0,,30,€3.00mLast update: 15/12/2025,3.0,"1,87 m",right,6,52,58
+108520,Ilan Kebbal,Algeria,Attacking Midfield,1998-07-10,Paris FC,1045,Ligue 1,FL1,9,4.0,3.0,26,€12.00mLast update: 15/12/2025,12.0,"1,69 m",left,12,38,40
+366,Corentin Tolisso,France,Central Midfield,1994-08-03,Olympique Lyonnais,523,Ligue 1,FL1,9,2.0,1.0,27,€12.00mLast update: 15/12/2025,12.0,"1,81 m",right,3,57,48
+128040,Ansu Fati,Spain,Left Winger,2002-10-31,AS Monaco FC,548,Ligue 1,FL1,9,,3.0,23,€15.00mLast update: 27/03/2026,15.0,"1,78 m",right,7,51,54
+166640,Ahmadou Bamba Dieng,Senegal,Offence,2000-03-23,FC Lorient,525,Ligue 1,FL1,9,2.0,1.0,23,,,,,9,41,40
+177248,Pablo Pagis,France,Centre-Forward,2002-12-29,FC Lorient,525,Ligue 1,FL1,8,3.0,1.0,25,€10.00mLast update: 27/03/2026,10.0,"1,80 m",both,9,41,40
+80175,Yann Gboho,France,Left Winger,2001-01-14,Toulouse FC,511,Ligue 1,FL1,8,2.0,,29,€15.00mLast update: 27/03/2026,15.0,"1,78 m",right,10,38,43
+856,Romain Del Castillo,France,Right Winger,1996-03-29,Stade Brestois 29,512,Ligue 1,FL1,8,3.0,6.0,28,€7.00mLast update: 15/12/2025,7.0,"1,72 m",left,11,38,41
+204426,Martial Godo,England,Left Winger,2003-03-14,RC Strasbourg Alsace,576,Ligue 1,FL1,8,1.0,,26,€18.00mLast update: 27/03/2026,18.0,"1,77 m",right,8,43,46
+3483,Breel Embolo,Switzerland,Centre-Forward,1997-02-14,Stade Rennais FC 1901,529,Ligue 1,FL1,8,3.0,,27,€12.00mLast update: 15/12/2025,12.0,"1,87 m",right,5,53,52
+3371,Olivier Giroud,France,Centre-Forward,1986-09-30,Lille OSC,521,Ligue 1,FL1,7,1.0,3.0,27,€1.00mLast update: 15/12/2025,1.0,"1,92 m",left,4,54,49
+213221,Hákon Haraldsson,Iceland,Midfield,2003-04-10,Lille OSC,521,Ligue 1,FL1,7,1.0,,28,€22.00mLast update: 15/12/2025,22.0,"1,78 m",right,4,54,49
+213511,Matias Fernandez-Pardo,Belgium,Centre-Forward,2005-02-03,Lille OSC,521,Ligue 1,FL1,7,5.0,1.0,27,€30.00mLast update: 27/03/2026,30.0,"1,88 m",right,4,54,49
+723,Ludovic Ajorque,France,Centre-Forward,1994-02-25,Stade Brestois 29,512,Ligue 1,FL1,7,9.0,,28,€3.50mLast update: 15/12/2025,3.5,"1,96 m",left,11,38,41
+76723,Sofiane Diop,France,Left Winger,2000-06-09,OGC Nice,522,Ligue 1,FL1,7,2.0,2.0,29,€12.00mLast update: 27/03/2026,12.0,"1,75 m",right,15,29,34
+8476,Amine Gouiri,Algeria,Centre-Forward,2000-02-16,Olympique de Marseille,516,Ligue 1,FL1,7,3.0,,20,€28.00mLast update: 15/12/2025,28.0,"1,81 m",right,6,52,58
+113285,Khvicha Kvaratskhelia,Georgia,Left Winger,2001-02-12,Paris Saint-Germain FC,524,Ligue 1,FL1,7,2.0,1.0,27,€90.00mLast update: 15/12/2025,90.0,"1,83 m",both,1,69,68
+175701,Maghnes Akliouche,France,Right Winger,2002-02-25,AS Monaco FC,548,Ligue 1,FL1,6,5.0,,29,€50.00mLast update: 27/03/2026,50.0,"1,83 m",left,7,51,54
+133190,Issa Soumaré,Senegal,Offence,2000-10-10,Le Havre AC,533,Ligue 1,FL1,6,4.0,1.0,30,€7.00mLast update: 27/03/2026,7.0,"1,84 m",right,14,30,25
+752,Gauthier Hein,France,Right Winger,1996-08-07,FC Metz,545,Ligue 1,FL1,6,5.0,4.0,25,€5.00mLast update: 15/12/2025,5.0,"1,70 m",left,18,15,27
+119703,Igor Paixão,Brazil,Left Winger,2000-06-28,Olympique de Marseille,516,Ligue 1,FL1,6,5.0,,27,€35.00mLast update: 15/12/2025,35.0,"1,68 m",right,6,52,58
+101431,Gonçalo Ramos,Portugal,Centre-Forward,2001-06-20,Paris Saint-Germain FC,524,Ligue 1,FL1,6,1.0,1.0,30,€35.00mLast update: 15/12/2025,35.0,"1,85 m",right,1,69,68
+177522,Desire Doue,France,Left Winger,2005-06-03,Paris Saint-Germain FC,524,Ligue 1,FL1,6,2.0,,21,€90.00mLast update: 15/12/2025,90.0,"1,81 m",right,1,69,68
+96869,Ludovic Blas,France,Right Winger,1997-12-31,Stade Rennais FC 1901,529,Ligue 1,FL1,5,4.0,2.0,29,€10.00mLast update: 27/03/2026,10.0,"1,80 m",left,5,53,52
+175942,Kamory Doumbia,Mali,Attacking Midfield,2003-02-18,Stade Brestois 29,512,Ligue 1,FL1,5,3.0,,20,€9.00mLast update: 27/03/2026,9.0,"1,70 m",right,11,38,41
+276430,Rayan Fofana,France,Offence,2006-02-12,Racing Club de Lens,546,Ligue 1,FL1,5,,,30,€7.00mLast update: 27/03/2026,7.0,"1,87 m",right,2,63,60
+176747,Frank Magri,Cameroon,Centre-Forward,1999-09-04,Toulouse FC,511,Ligue 1,FL1,5,1.0,,17,€4.00mLast update: 15/12/2025,4.0,"1,78 m",right,10,38,43
+260879,Hamza Igamane,Morocco,Offence,2002-11-02,Lille OSC,521,Ligue 1,FL1,5,1.0,,13,€18.00mLast update: 15/12/2025,18.0,"1,81 m",right,4,54,49
+190877,Joao Neves,Portugal,Defensive Midfield,2004-09-27,Paris Saint-Germain FC,524,Ligue 1,FL1,5,1.0,,19,€110.00mLast update: 15/12/2025,110.0,"1,74 m",right,1,69,68
+278087,Prosper Peter,Nigeria,Offence,2007-08-09,Angers SCO,532,Ligue 1,FL1,5,,,28,€15.00mLast update: 27/03/2026,15.0,"1,88 m",right,13,34,26
+204240,Rémy Labeau Lascary,Guadeloupe,Centre-Forward,2003-03-03,Stade Brestois 29,512,Ligue 1,FL1,5,1.0,,23,€3.00mLast update: 27/03/2026,3.0,"1,84 m",right,11,38,41
+176628,Emersonn,Brazil,Offence,2004-07-16,Toulouse FC,511,Ligue 1,FL1,5,2.0,,25,€5.00mLast update: 27/03/2026,5.0,"1,93 m",right,10,38,43
+116407,Eric Junior Dina Ebimbe,Cameroon,Right Midfield,2000-11-21,Stade Brestois 29,512,Ligue 1,FL1,5,,,26,€6.00mLast update: 15/12/2025,6.0,"1,84 m",right,11,38,41
+170412,Matthis Abline,France,Centre-Forward,2003-03-28,FC Nantes,543,Ligue 1,FL1,5,2.0,,29,€20.00mLast update: 15/12/2025,20.0,"1,82 m",right,17,20,25
+3683,Aleksandr Golovin,Russia,Attacking Midfield,1996-05-30,AS Monaco FC,548,Ligue 1,FL1,5,5.0,,25,€18.00mLast update: 15/12/2025,18.0,"1,78 m",right,7,51,54
+98763,Musa Al Taamari,Jordan,Right Winger,1997-06-10,Stade Rennais FC 1901,529,Ligue 1,FL1,5,5.0,,29,,,,,5,53,52
+178663,Rassoul N'Diaye,France,Defensive Midfield,2001-12-11,Le Havre AC,533,Ligue 1,FL1,4,4.0,,30,,,,,14,30,25
+213033,Robinio Vaz,France,Offence,2007-02-17,Olympique de Marseille,516,Ligue 1,FL1,4,2.0,,16,€18.00mLast update: 24/03/2026,18.0,"1,85 m",right,6,52,58
+129440,Sambou Soumano,Senegal,Midfield,2001-01-03,FC Lorient,525,Ligue 1,FL1,4,1.0,,29,€4.00mLast update: 15/12/2025,4.0,"1,82 m",right,9,41,40
+72551,Aiyegun Tosin,Benin,Centre-Forward,1998-06-26,FC Lorient,525,Ligue 1,FL1,4,,,26,€2.00mLast update: 15/12/2025,2.0,"1,79 m",right,9,41,40
+150599,Emanuel Emegha,Netherlands,Centre-Forward,2003-02-03,RC Strasbourg Alsace,576,Ligue 1,FL1,4,2.0,,8,€28.00mLast update: 15/12/2025,28.0,"1,96 m",right,8,43,46
+114672,Mostafa Mohamed,Egypt,Centre-Forward,1997-11-28,FC Nantes,543,Ligue 1,FL1,4,,,28,€4.00mLast update: 15/12/2025,4.0,"1,85 m",right,17,20,25
+456,Habib Diallo,Senegal,Midfield,1995-06-18,FC Metz,545,Ligue 1,FL1,4,1.0,,23,€5.00mLast update: 15/12/2025,5.0,"1,86 m",right,18,15,27
+192688,Aron Dönnum,Norway,Right Midfield,1998-04-20,Toulouse FC,511,Ligue 1,FL1,4,3.0,3.0,26,€5.00mLast update: 15/12/2025,5.0,"1,78 m",left,10,38,43
+144570,Nuno Mendes,Portugal,Left-Back,2002-06-19,Paris Saint-Germain FC,524,Ligue 1,FL1,4,5.0,1.0,24,€75.00mLast update: 15/12/2025,75.0,"1,80 m",left,1,69,68
+246066,Senny Mayulu,France,Central Midfield,2006-05-17,Paris Saint-Germain FC,524,Ligue 1,FL1,4,4.0,,22,€40.00mLast update: 15/12/2025,40.0,"1,83 m",both,1,69,68
+213712,Sidiki Cherif,France,Centre-Forward,2006-12-15,Angers SCO,532,Ligue 1,FL1,4,,,19,€18.00mLast update: 05/03/2026,18.0,"1,88 m",right,13,34,26
+127657,Félix Correia,Portugal,Left Winger,2001-01-22,Lille OSC,521,Ligue 1,FL1,4,5.0,,30,€10.00mLast update: 15/12/2025,10.0,"1,78 m",right,4,54,49
+213270,Mohamed Cho,France,Offence,2004-01-19,OGC Nice,522,Ligue 1,FL1,4,3.0,,20,-,,"1,75 m",,15,29,34
+156808,Sepe Elye Wahi,France,Centre-Forward,2003-01-02,OGC Nice,522,Ligue 1,FL1,4,1.0,,11,,,,,15,29,34
+188487,Endrick,Brazil,Centre-Forward,2006-07-21,Olympique Lyonnais,523,Ligue 1,FL1,4,6.0,1.0,13,€35.00mLast update: 27/03/2026,35.0,"1,73 m",left,3,57,48
+34754,Marshall Munetsi,Zimbabwe,Central Midfield,1996-06-22,Paris FC,1045,Ligue 1,FL1,4,1.0,,13,€12.00mLast update: 09/12/2025,12.0,"1,88 m",right,12,38,40
+3362,Djibril Sidibé,France,Right-Back,1992-07-29,Toulouse FC,511,Ligue 1,FL1,3,4.0,1.0,31,€1.00mLast update: 15/12/2025,1.0,"1,83 m",right,10,38,43
+3398,Moses Simon,Nigeria,Left Winger,1995-07-12,Paris FC,1045,Ligue 1,FL1,3,3.0,,27,€7.00mLast update: 15/12/2025,7.0,"1,68 m",right,12,38,40
+8706,Adrien Thomasson,France,Attacking Midfield,1993-12-10,Racing Club de Lens,546,Ligue 1,FL1,3,9.0,,29,€4.50mLast update: 15/12/2025,4.5,"1,75 m",right,2,63,60
+8435,Romain Perraud,France,Left-Back,1997-09-22,Lille OSC,521,Ligue 1,FL1,3,3.0,,28,€7.00mLast update: 15/12/2025,7.0,"1,73 m",left,4,54,49
+150797,Charlie Cresswell,England,null,2002-08-17,Toulouse FC,511,Ligue 1,FL1,3,1.0,,27,€25.00mLast update: 27/03/2026,25.0,"1,90 m",right,10,38,43
+15100,Takumi Minamino,Japan,Left Winger,1995-01-16,AS Monaco FC,548,Ligue 1,FL1,3,2.0,,16,€12.00mLast update: 15/12/2025,12.0,"1,72 m",right,7,51,54
+7910,Angel Gomes,England,Attacking Midfield,2000-08-31,Olympique de Marseille,516,Ligue 1,FL1,3,,,17,€12.00mLast update: 09/03/2026,12.0,"1,68 m",right,6,52,58
+218468,Ethan Mbappé,France,Central Midfield,2006-12-29,Lille OSC,521,Ligue 1,FL1,3,1.0,,14,€9.00mLast update: 15/12/2025,9.0,"1,80 m",left,4,54,49
+8475,Willem Geubbels,France,Offence,2001-08-16,Paris FC,1045,Ligue 1,FL1,3,,1.0,26,€5.00mLast update: 27/03/2026,5.0,"1,86 m",right,12,38,40
+272764,Mohamed Meïté,France,Offence,2007-10-11,Stade Rennais FC 1901,529,Ligue 1,FL1,3,1.0,,19,,,,,5,53,52
+207204,Youssef El-Arabi,Morocco,Offence,1987-02-03,FC Nantes,543,Ligue 1,FL1,3,,,30,,,,,17,20,25
+638,Alimami Gory,France,Left Winger,1996-08-30,Paris FC,1045,Ligue 1,FL1,3,1.0,,23,€1.20mLast update: 15/12/2025,1.2,"1,82 m",right,12,38,40
+4289,Daniel Namaso,Cameroon,Offence,2000-08-28,AJ Auxerre,519,Ligue 1,FL1,3,3.0,,27,€5.00mLast update: 15/12/2025,5.0,"1,82 m",right,16,25,27
+182192,Diego Moreira,Belgium,Left Winger,2004-08-06,RC Strasbourg Alsace,576,Ligue 1,FL1,3,5.0,,23,€25.00mLast update: 27/03/2026,25.0,"1,79 m",left,8,43,46
+204136,Afonso Moreira,Portugal,Left Winger,2005-03-19,Olympique Lyonnais,523,Ligue 1,FL1,3,7.0,,26,€10.00mLast update: 27/03/2026,10.0,"1,76 m",right,3,57,48
+244898,Mamadou Coulibaly,France,Central Midfield,2004-04-21,AS Monaco FC,548,Ligue 1,FL1,3,3.0,,26,€15.00mLast update: 27/03/2026,15.0,"1,79 m",left,7,51,54
+144643,Sebastian Nanasi,Sweden,Left Midfield,2002-05-16,RC Strasbourg Alsace,576,Ligue 1,FL1,3,1.0,,24,€12.00mLast update: 27/03/2026,12.0,"1,78 m",right,8,43,46
+150964,Mamadou Sangare,Mali,Midfield,2002-06-26,Racing Club de Lens,546,Ligue 1,FL1,3,4.0,,27,€30.00mLast update: 27/03/2026,30.0,"1,81 m",left,2,63,60
+188468,Pierre Ganiou,France,Centre-Back,2005-03-14,Racing Club de Lens,546,Ligue 1,FL1,3,,,27,,,,,2,63,60
+8542,Mahdi Camara,France,Central Midfield,1998-06-30,Stade Rennais FC 1901,529,Ligue 1,FL1,3,1.0,,28,€10.00mLast update: 15/12/2025,10.0,"1,76 m",right,5,53,52
+213217,Kang-in Lee,South Korea,Midfield,2001-02-19,Paris Saint-Germain FC,524,Ligue 1,FL1,3,4.0,,26,,,,,1,69,68
+216372,Georgiy Tsitaishvili,Georgia,Midfield,2000-11-18,FC Metz,545,Ligue 1,FL1,3,2.0,,30,€2.50mLast update: 15/12/2025,2.5,"1,71 m",left,18,15,27
+178964,Abner Vinicius,Brazil,Defence,2000-05-27,Olympique Lyonnais,523,Ligue 1,FL1,3,1.0,,25,€10.00mLast update: 27/03/2026,10.0,"1,81 m",left,3,57,48
+175724,Kevin Danois,France,Central Midfield,2004-06-28,AJ Auxerre,519,Ligue 1,FL1,3,1.0,,31,€12.00mLast update: 27/03/2026,12.0,"1,83 m",right,16,25,27
+724,Fabien Centonze,France,Right-Back,1996-01-16,FC Nantes,543,Ligue 1,FL1,3,,,17,€1.20mLast update: 15/12/2025,1.2,"1,82 m",right,17,20,25
+191371,Santiago Hidalgo,Argentina,Offence,2005-02-17,Toulouse FC,511,Ligue 1,FL1,3,6.0,,30,€4.00mLast update: 27/03/2026,4.0,"1,74 m",left,10,38,43
+8437,Jean-Victor Makengo,France,Central Midfield,1998-06-12,FC Lorient,525,Ligue 1,FL1,3,1.0,,30,€6.00mLast update: 27/03/2026,6.0,"1,77 m",left,9,41,40
+204237,Tom Louchet,France,Right Midfield,2003-05-04,OGC Nice,522,Ligue 1,FL1,3,2.0,,27,€7.00mLast update: 27/03/2026,7.0,"1,78 m",both,15,29,34
+8381,Jonathan Ikoné,France,Right Winger,1998-05-02,Paris FC,1045,Ligue 1,FL1,3,,,21,€4.00mLast update: 27/03/2026,4.0,"1,75 m",left,12,38,40
+166249,Simon Adingra,Ivory Coast,Left Winger,2002-01-01,AS Monaco FC,548,Ligue 1,FL1,3,1.0,,11,€25.00mLast update: 27/03/2026,25.0,"1,75 m",right,7,51,54
+124243,Bryan Okoh,Switzerland,Defence,2003-05-16,AJ Auxerre,519,Ligue 1,FL1,3,,,12,,,,,16,25,27
+8922,Roman Yaremchuk,Ukraine,Centre-Forward,1995-11-27,Olympique Lyonnais,523,Ligue 1,FL1,3,1.0,,9,,,,,3,57,48
+8093,Pierre Emile Højbjerg,Denmark,Defensive Midfield,1995-08-05,Olympique de Marseille,516,Ligue 1,FL1,2,4.0,,28,,,,,6,52,58
+4121,Jérémie Boga,Ivory Coast,Left Winger,1997-01-03,OGC Nice,522,Ligue 1,FL1,2,2.0,,14,€8.00mLast update: 15/12/2025,8.0,"1,72 m",right,15,29,34
+113427,Terem Moffi,Nigeria,Centre-Forward,1999-05-25,OGC Nice,522,Ligue 1,FL1,2,,,10,€10.00mLast update: 15/12/2025,10.0,"1,88 m",left,15,29,34
+187065,Malick Fofana,Belgium,Left Winger,2005-03-31,Olympique Lyonnais,523,Ligue 1,FL1,2,1.0,,10,€30.00mLast update: 15/12/2025,30.0,"1,69 m",right,3,57,48
+172520,Theo Le Bris,France,Left Midfield,2002-10-01,FC Lorient,525,Ligue 1,FL1,2,3.0,,29,€4.50mLast update: 27/03/2026,4.5,"1,70 m",right,9,41,40
+3374,Kylian Mbappé,France,Centre-Forward,1998-12-20,Real Madrid CF,86,Champions League,CL,15,1.0,3.0,12,€200.00mLast update: 12/12/2025,200.0,"1,80 m",right,9,15,21
+8004,Harry Kane,England,Centre-Forward,1993-07-28,FC Bayern München,5,Champions League,CL,12,1.0,3.0,12,€65.00mLast update: 19/12/2025,65.0,"1,88 m",right,2,21,22
+7848,Anthony Gordon,England,Left Winger,2001-02-24,Newcastle United FC,67,Champions League,CL,10,2.0,5.0,12,€60.00mLast update: 09/12/2025,60.0,"1,83 m",right,12,14,17
+98571,Julián Álvarez,Argentina,Centre-Forward,2000-01-31,Club Atlético de Madrid,78,Champions League,CL,9,3.0,2.0,13,€90.00mLast update: 16/03/2026,90.0,"1,70 m",right,14,13,17
+113285,Khvicha Kvaratskhelia,Georgia,Left Winger,2001-02-12,Paris Saint-Germain FC,524,Champions League,CL,8,5.0,,13,€90.00mLast update: 15/12/2025,90.0,"1,83 m",both,11,14,21
+38101,Erling Haaland,Norway,Centre-Forward,2000-07-21,Manchester City FC,65,Champions League,CL,8,,1.0,10,€200.00mLast update: 09/12/2025,200.0,"1,95 m",left,8,16,15
+9434,Victor Osimhen,Nigeria,Centre-Forward,1998-12-29,Galatasaray SK,610,Champions League,CL,7,2.0,3.0,10,€75.00mLast update: 17/12/2025,75.0,"1,86 m",right,20,10,9
+61450,Martinelli,Brazil,Left Winger,2001-06-18,Arsenal FC,57,Champions League,CL,6,2.0,,11,€45.00mLast update: 09/12/2025,45.0,"1,78 m",right,1,24,23
+37916,Jens Hauge,Norway,Left Winger,1999-10-12,FK Bodø/Glimt,5721,Champions League,CL,6,2.0,,12,,,,,23,9,14
+8076,Harvey Barnes,England,Left Winger,1997-12-09,Newcastle United FC,67,Champions League,CL,6,4.0,,12,€32.00mLast update: 09/12/2025,32.0,"1,82 m",right,12,14,17
+214533,Fermín López,Spain,Central Midfield,2003-05-11,FC Barcelona,81,Champions League,CL,6,4.0,,11,€100.00mLast update: 16/03/2026,100.0,"1,74 m",right,5,16,22
+202283,Lamine Yamal,Spain,Right Winger,2007-07-13,FC Barcelona,81,Champions League,CL,6,3.0,3.0,10,€200.00mLast update: 12/12/2025,200.0,"1,80 m",left,5,16,22
+178722,Vitinha,Portugal,Central Midfield,2000-02-13,Paris Saint-Germain FC,524,Champions League,CL,6,1.0,1.0,14,€110.00mLast update: 15/12/2025,110.0,"1,72 m",right,11,14,21
+22396,Luis Díaz,Colombia,Left Winger,1997-01-13,FC Bayern München,5,Champions League,CL,6,3.0,,10,€70.00mLast update: 19/12/2025,70.0,"1,80 m",right,2,21,22
+8167,Alexander Sørloth,Norway,Centre-Forward,1995-12-05,Club Atlético de Madrid,78,Champions League,CL,6,1.0,,13,€20.00mLast update: 12/12/2025,20.0,"1,95 m",left,14,13,17
+270725,Camilo Durán,Colombia,Offence,2002-02-10,Qarabağ Ağdam FK,611,Champions League,CL,5,2.0,,10,€750kLast update: 23/12/2025,0.75,"1,78 m",left,22,10,13
+3331,Marcus Rashford,England,Left Winger,1997-10-31,FC Barcelona,81,Champions League,CL,5,3.0,,12,€40.00mLast update: 12/12/2025,40.0,"1,85 m",right,5,16,22
+81565,Gorka Guruzeta,Spain,Centre-Forward,1996-09-12,Athletic Club,77,Champions League,CL,5,,,7,€5.00mLast update: 12/12/2025,5.0,"1,88 m",right,29,8,9
+32386,Luis Suárez,Colombia,Offence,1997-12-02,Sporting Clube de Portugal,498,Champions League,CL,5,1.0,2.0,12,€1.50mLast update: 11/12/2025,1.5,"1,82 m",right,7,16,17
+177522,Desire Doue,France,Left Winger,2005-06-03,Paris Saint-Germain FC,524,Champions League,CL,5,2.0,,10,€90.00mLast update: 15/12/2025,90.0,"1,81 m",right,11,14,21
+16347,Dominik Szoboszlai,Hungary,Central Midfield,2000-10-25,Liverpool FC,64,Champions League,CL,5,4.0,1.0,12,€100.00mLast update: 09/03/2026,100.0,"1,87 m",right,3,18,20
+131040,Folarin Balogun,USA,Centre-Forward,2001-07-03,AS Monaco FC,548,Champions League,CL,5,,,10,€30.00mLast update: 27/03/2026,30.0,"1,78 m",right,21,10,8
+184735,Kasper Högh,Denmark,Offence,2000-12-06,FK Bodø/Glimt,5721,Champions League,CL,5,2.0,,12,€12.00mLast update: 16/03/2026,12.0,"1,86 m",right,23,9,14
+1556,Vinicius Junior,Brazil,Left Winger,2000-07-12,Real Madrid CF,86,Champions League,CL,5,6.0,1.0,14,€150.00mLast update: 12/12/2025,150.0,"1,76 m",right,9,15,21
+44413,Sondre Fet,Norway,Midfield,1997-01-17,FK Bodø/Glimt,5721,Champions League,CL,4,1.0,2.0,12,€1.80mLast update: 16/03/2026,1.8,"1,77 m",both,23,9,14
+70,Marcos Llorente,Spain,Right Midfield,1995-01-30,Club Atlético de Madrid,78,Champions League,CL,4,1.0,,12,€22.00mLast update: 12/12/2025,22.0,"1,84 m",right,14,13,17
+16739,Alejandro Grimaldo,Spain,Left-Back,1995-09-20,Bayer 04 Leverkusen,3,Champions League,CL,4,3.0,,12,€24.00mLast update: 19/12/2025,24.0,"1,71 m",left,16,12,13
+37332,Trincão,Portugal,Left Winger,1999-12-29,Sporting Clube de Portugal,498,Champions League,CL,4,3.0,,11,€35.00mLast update: 18/12/2025,35.0,"1,84 m",left,7,16,17
+130420,Lazar Samardzic,Serbia,Central Midfield,2002-02-24,Atalanta BC,102,Champions League,CL,4,,2.0,12,€17.00mLast update: 24/03/2026,17.0,"1,84 m",left,15,13,10
+119703,Igor Paixão,Brazil,Left Winger,2000-06-28,Olympique de Marseille,516,Champions League,CL,4,,,8,€35.00mLast update: 15/12/2025,35.0,"1,68 m",right,25,9,11
+113765,Michael Olise,France,Right Winger,2001-12-12,FC Bayern München,5,Champions League,CL,4,6.0,,11,€140.00mLast update: 20/03/2026,140.0,"1,84 m",left,2,21,22
+3220,Lautaro Martínez,Argentina,Centre-Forward,1997-08-22,FC Internazionale Milano,108,Champions League,CL,4,,,9,€85.00mLast update: 23/12/2025,85.0,"1,74 m",right,10,15,15
+211,Sehrou Guirassy,Guinea,Centre-Forward,1996-03-12,Borussia Dortmund,4,Champions League,CL,4,3.0,,10,€40.00mLast update: 19/12/2025,40.0,"1,87 m",right,17,11,19
+3373,Ousmane Dembélé,France,Right Winger,1997-05-15,Paris Saint-Germain FC,524,Champions League,CL,4,1.0,,10,€100.00mLast update: 15/12/2025,100.0,"1,78 m",both,11,14,21
+8279,Viktor Gyökeres,Sweden,Centre-Forward,1998-06-04,Arsenal FC,57,Champions League,CL,4,2.0,,10,€65.00mLast update: 09/03/2026,65.0,"1,89 m",right,1,24,23
+7905,Scott McTominay,Scotland,Central Midfield,1996-12-08,SSC Napoli,113,Champions League,CL,4,,,8,€45.00mLast update: 23/12/2025,45.0,"1,91 m",right,30,8,9
+277592,Lennart Karl,Germany,Midfield,2008-02-22,FC Bayern München,5,Champions League,CL,4,2.0,,11,€60.00mLast update: 19/12/2025,60.0,"1,68 m",left,2,21,22
+1826,Patrik Schick,Czech Republic,Centre-Forward,1996-01-24,Bayer 04 Leverkusen,3,Champions League,CL,4,1.0,,10,€20.00mLast update: 20/03/2026,20.0,"1,91 m",left,16,12,13
+6507,Weston McKennie,USA,Central Midfield,1998-08-28,Juventus FC,109,Champions League,CL,4,1.0,,10,€30.00mLast update: 24/03/2026,30.0,"1,85 m",right,13,13,14
+8708,Randal Kolo Muani,France,Centre-Forward,1998-12-05,Tottenham Hotspur FC,73,Champions League,CL,4,2.0,,9,€22.00mLast update: 09/03/2026,22.0,"1,87 m",right,4,17,17
+371,Robert Lewandowski,Poland,Centre-Forward,1988-08-21,FC Barcelona,81,Champions League,CL,4,,,11,€8.00mLast update: 16/03/2026,8.0,"1,86 m",right,5,16,22
+82515,Karim Adeyemi,Germany,Left Winger,2002-01-18,Borussia Dortmund,4,Champions League,CL,3,2.0,,10,€50.00mLast update: 20/03/2026,50.0,"1,80 m",left,17,11,19
+101074,Felix Kalu Nmecha,Germany,Central Midfield,2000-10-10,Borussia Dortmund,4,Champions League,CL,3,,,10,€50.00mLast update: 20/03/2026,50.0,"1,90 m",right,17,11,19
+82002,Dušan Vlahović,Serbia,Centre-Forward,2000-01-28,Juventus FC,109,Champions League,CL,3,1.0,,5,€35.00mLast update: 23/12/2025,35.0,"1,90 m",left,13,13,14
+147779,Leandro Andrade,Cape Verde Islands,Midfield,1999-09-24,Qarabağ Ağdam FK,611,Champions League,CL,3,,,10,-,,"1,80 m",,22,10,13
+3754,Mohamed Salah,Egypt,Right Winger,1992-06-15,Liverpool FC,64,Champions League,CL,3,1.0,,11,€30.00mLast update: 09/12/2025,30.0,"1,75 m",left,3,18,20
+31117,Jordan Larsson,Sweden,Offence,1997-06-20,FC København,1876,Champions League,CL,3,,1.0,8,€3.00mLast update: 15/12/2025,3.0,"1,75 m",left,31,8,12
+177321,Nicolo Tresoldi,Italy,Centre-Forward,2004-08-20,Club Brugge KV,851,Champions League,CL,3,1.0,,10,€13.00mLast update: 13/03/2026,13.0,"1,86 m",right,19,10,15
+82404,Jonathan Burkardt,Germany,Centre-Forward,2000-07-11,Eintracht Frankfurt,19,Champions League,CL,3,1.0,,5,€35.00mLast update: 19/12/2025,35.0,"1,81 m",right,33,4,10
+220542,Alisson Santos,Brazil,Midfield,2002-09-27,Sporting Clube de Portugal,498,Champions League,CL,3,,,8,€13.00mLast update: 24/03/2026,13.0,"1,77 m",right,7,16,17
+3553,Mario Pašalić,Croatia,Central Midfield,1995-02-09,Atalanta BC,102,Champions League,CL,3,1.0,,12,€7.00mLast update: 23/12/2025,7.0,"1,88 m",right,15,13,10
+101075,Mason Greenwood,England,Right Winger,2001-10-01,Olympique de Marseille,516,Champions League,CL,3,1.0,,8,€55.00mLast update: 27/03/2026,55.0,"1,81 m",both,25,9,11
+7801,Pierre-Emerick Aubameyang,Gabon,Centre-Forward,1989-06-18,Olympique de Marseille,516,Champions League,CL,3,4.0,,8,€3.00mLast update: 15/12/2025,3.0,"1,87 m",right,25,9,11
+152515,Nicolas Jackson,Senegal,Centre-Forward,2001-06-20,FC Bayern München,5,Champions League,CL,3,2.0,,11,€40.00mLast update: 20/03/2026,40.0,"1,87 m",right,2,21,22
+148,Julian Brandt,Germany,Attacking Midfield,1996-05-02,Borussia Dortmund,4,Champions League,CL,3,,,9,€20.00mLast update: 19/12/2025,20.0,"1,85 m",right,17,11,19
+33154,Ferrán Torres,Spain,Right Winger,2000-02-29,FC Barcelona,81,Champions League,CL,3,1.0,,11,€50.00mLast update: 12/12/2025,50.0,"1,82 m",right,5,16,22
+67965,Jordan Teze,Netherlands,Right-Back,1999-09-30,AS Monaco FC,548,Champions League,CL,3,,,10,€15.00mLast update: 27/03/2026,15.0,"1,83 m",right,21,10,8
+130173,Ismael Saibari,Morocco,Central Midfield,2001-01-28,PSV,674,Champions League,CL,3,,,7,€32.00mLast update: 02/12/2025,32.0,"1,85 m",right,28,8,16
+152770,Rasmus Højlund,Denmark,Centre-Forward,2003-02-04,SSC Napoli,113,Champions League,CL,3,,,7,€50.00mLast update: 24/03/2026,50.0,"1,91 m",left,30,8,9
+286556,Viktor Daðason,Iceland,Offence,2008-06-30,FC København,1876,Champions League,CL,3,,,6,€3.00mLast update: 15/12/2025,3.0,"1,93 m",right,31,8,12
+119731,Ricardo Pepi,USA,Centre-Forward,2003-01-09,PSV,674,Champions League,CL,3,2.0,,5,€25.00mLast update: 11/03/2026,25.0,"1,85 m",right,28,8,16
+150536,Couhaib Driouech,Morocco,Left Winger,2002-04-17,PSV,674,Champions League,CL,3,2.0,,8,€6.00mLast update: 02/12/2025,6.0,"1,75 m",right,28,8,16
+152454,Hugo Ekitike,France,Centre-Forward,2002-06-20,Liverpool FC,64,Champions League,CL,3,1.0,,12,€90.00mLast update: 09/03/2026,90.0,"1,90 m",right,3,18,20
+102603,Enzo Fernández,Argentina,Central Midfield,2001-01-17,Chelsea FC,61,Champions League,CL,3,3.0,2.0,10,€90.00mLast update: 09/03/2026,90.0,"1,78 m",right,6,16,17
+244778,Estevao,Brazil,Offence,2007-04-24,Chelsea FC,61,Champions League,CL,3,1.0,1.0,9,€80.00mLast update: 09/12/2025,80.0,"1,76 m",left,6,16,17
+3256,Gelson Martins,Portugal,Right Winger,1995-05-11,PAE Olympiakos SFP,654,Champions League,CL,3,,,9,€2.50mLast update: 12/12/2025,2.5,"1,73 m",right,18,11,10
+45681,Alexis Mac Allister,Argentina,Central Midfield,1998-12-24,Liverpool FC,64,Champions League,CL,3,1.0,,12,€80.00mLast update: 09/03/2026,80.0,"1,76 m",right,3,18,20
+133242,Rayan Cherki,France,Attacking Midfield,2003-08-17,Manchester City FC,65,Champions League,CL,3,,,8,€65.00mLast update: 09/03/2026,65.0,"1,77 m",both,8,16,15
+9554,Ademola Lookman,Nigeria,Offence,1997-10-20,Club Atlético de Madrid,78,Champions League,CL,3,3.0,,13,€40.00mLast update: 16/03/2026,40.0,"1,74 m",right,14,13,17
+167720,Noni Madueke,England,Right Winger,2002-03-10,Arsenal FC,57,Champions League,CL,3,,,9,€50.00mLast update: 09/12/2025,50.0,"1,82 m",left,1,24,23
+213425,Anan Khalaili,Israel,Offence,2004-09-03,Royale Union Saint-Gilloise,3929,Champions League,CL,3,,,8,€18.00mLast update: 13/03/2026,18.0,"1,83 m",right,27,9,8
+148289,Xavi Simons,Netherlands,Attacking Midfield,2003-04-21,Tottenham Hotspur FC,73,Champions League,CL,3,1.0,2.0,10,€50.00mLast update: 09/03/2026,50.0,"1,79 m",right,4,17,17
+103125,João Pedro,Brazil,Centre-Forward,2001-09-26,Chelsea FC,61,Champions League,CL,3,,,9,€110.00mLast update: 15/12/2025,110.0,"1,74 m",right,6,16,17
+2681,Gianluca Scamacca,Italy,Centre-Forward,1999-01-01,Atalanta BC,102,Champions League,CL,3,1.0,,10,€25.00mLast update: 23/12/2025,25.0,"1,95 m",right,15,13,10
+190731,Oscar Gloukh,Israel,Midfield,2004-01-04,AFC Ajax,678,Champions League,CL,3,,,8,€15.00mLast update: 11/03/2026,15.0,"1,71 m",both,32,6,8
+7878,Dominic Solanke,England,Centre-Forward,1997-09-14,Tottenham Hotspur FC,73,Champions League,CL,3,,,3,€35.00mLast update: 09/12/2025,35.0,"1,86 m",right,4,17,17
+37428,Raphinha,Brazil,Left Winger,1996-12-14,FC Barcelona,81,Champions League,CL,3,2.0,1.0,7,€80.00mLast update: 12/12/2025,80.0,"1,76 m",left,5,16,22
+171,Kai Havertz,Germany,Centre-Forward,1999-06-11,Arsenal FC,57,Champions League,CL,3,1.0,1.0,6,€50.00mLast update: 09/03/2026,50.0,"1,93 m",left,1,24,23
+96,Federico Valverde,Uruguay,Central Midfield,1998-07-22,Real Madrid CF,86,Champions League,CL,3,4.0,,14,€120.00mLast update: 12/12/2025,120.0,"1,82 m",right,9,15,21
+260992,Promise Akinpelu,Canada,Offence,2001-07-03,Royale Union Saint-Gilloise,3929,Champions League,CL,2,,1.0,7,,,,,27,9,8
+8805,Ramy Bensebaini,Algeria,Left-Back,1995-04-16,Borussia Dortmund,4,Champions League,CL,2,,2.0,10,€7.00mLast update: 19/12/2025,7.0,"1,87 m",left,17,11,19
+67299,Vangelis Pavlidis,Greece,Offence,1998-11-21,Sport Lisboa e Benfica,1903,Champions League,CL,2,2.0,1.0,10,€32.00mLast update: 19/03/2026,32.0,"1,86 m",both,24,9,10
+285466,Youssoupha Mbodji,Senegal,Defence,2004-01-09,SK Slavia Praha,930,Champions League,CL,2,,,8,€1.50mLast update: 24/03/2026,1.5,"1,90 m",left,34,3,5
+8685,Marcus Thuram-Ulien,France,Centre-Forward,1997-08-06,FC Internazionale Milano,108,Champions League,CL,2,1.0,,9,,,,,10,15,15
+7869,Virgil van Dijk,Netherlands,Centre-Back,1991-07-08,Liverpool FC,64,Champions League,CL,2,3.0,,12,€18.00mLast update: 09/12/2025,18.0,"1,95 m",right,3,18,20
+3225,Marquinhos,Brazil,Centre-Back,1994-05-14,Paris Saint-Germain FC,524,Champions League,CL,2,,,13,€30.00mLast update: 15/12/2025,30.0,"1,83 m",right,11,14,21
+144570,Nuno Mendes,Portugal,Left-Back,2002-06-19,Paris Saint-Germain FC,524,Champions League,CL,2,2.0,,14,€75.00mLast update: 15/12/2025,75.0,"1,80 m",left,11,14,21
+101431,Gonçalo Ramos,Portugal,Centre-Forward,2001-06-20,Paris Saint-Germain FC,524,Champions League,CL,2,,,14,€35.00mLast update: 15/12/2025,35.0,"1,85 m",right,11,14,21
+207506,Robert,Brazil,Midfield,2005-04-13,FC København,1876,Champions League,CL,2,1.0,,7,€8.00mLast update: 16/03/2026,8.0,"1,86 m",right,31,8,12
+170776,Raphael Onyedika,Nigeria,Midfield,2001-04-19,Club Brugge KV,851,Champions League,CL,2,1.0,,6,€23.00mLast update: 13/03/2026,23.0,"1,84 m",right,19,10,15
+8888,Hans Vanaken,Belgium,Midfield,1992-08-24,Club Brugge KV,851,Champions League,CL,2,3.0,,10,€6.00mLast update: 10/12/2025,6.0,"1,95 m",right,19,10,15
+206779,Mamadou Diakhon,France,Left Winger,2005-09-22,Club Brugge KV,851,Champions League,CL,2,1.0,,10,€9.00mLast update: 13/03/2026,9.0,"1,80 m",right,19,10,15
+79906,Yunus Akgün,Turkey,Right Winger,2000-07-07,Galatasaray SK,610,Champions League,CL,2,,,10,€18.00mLast update: 05/03/2026,18.0,"1,73 m",left,20,10,9
+193605,Can Uzun,Turkey,Attacking Midfield,2005-11-11,Eintracht Frankfurt,19,Champions League,CL,2,,,5,€45.00mLast update: 19/12/2025,45.0,"1,86 m",right,33,4,10
+150860,Ansgar Knauff,Germany,Right Winger,2002-01-10,Eintracht Frankfurt,19,Champions League,CL,2,1.0,,8,€15.00mLast update: 19/12/2025,15.0,"1,80 m",right,33,4,10
+229421,Geovany Quenda,Guinea-Bissau,Offence,2007-04-30,Sporting Clube de Portugal,498,Champions League,CL,2,2.0,,6,€42.00mLast update: 19/03/2026,42.0,"1,72 m",left,7,16,17
+144434,Christos Tzolis,Greece,Midfield,2002-01-30,Club Brugge KV,851,Champions League,CL,2,1.0,,9,€30.00mLast update: 10/12/2025,30.0,"1,79 m",right,19,10,15
+99791,Robin Le Normand,Spain,Centre-Back,1996-11-11,Club Atlético de Madrid,78,Champions League,CL,2,,,13,€25.00mLast update: 16/03/2026,25.0,"1,87 m",right,14,13,17
+114,Antoine Griezmann,France,Centre-Forward,1991-03-21,Club Atlético de Madrid,78,Champions League,CL,2,4.0,,13,€10.00mLast update: 16/03/2026,10.0,"1,76 m",left,14,13,17
+171964,Giuliano Simeone,Argentina,Right Winger,2002-12-18,Club Atlético de Madrid,78,Champions League,CL,2,1.0,,14,€40.00mLast update: 12/12/2025,40.0,"1,73 m",right,14,13,17
