@@ -19,6 +19,12 @@ This application combines real football data from multiple sources to predict ho
 ![Dashboard](screenshots/Dashboard1.png)
 ![Dashboard](screenshots/Dashboard2.png)
 
+### Predictor
+![Dashboard](screenshots/Predictor.png)
+
+### Comapare Players
+![Dashboard](screenshots/Compare1.png)
+![Dashboard](screenshots/Compare2.png)
 
 ---
 
